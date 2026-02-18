@@ -2,7 +2,13 @@
 Collection of ascii art in [3a format](https://github.com/asciimoth/3a/tree/main).
 
 ## Galery
-![>|_||\\|K2!\]34\]](https://i.imgur.com/28Iddmq.gif) ![Boltzmann](https://i.imgur.com/UkoGtzi.gif) ![Nix](https://i.imgur.com/hR385U4.gif) ![Scientific](https://i.imgur.com/Jj17x77.gif) ![DNA](https://i.imgur.com/OWN9yQW.gif) ![Flask](https://i.imgur.com/bKfHjf6.gif) ![Pong](https://i.imgur.com/XjgEibY.gif) ![Pong](https://i.imgur.com/6C2W8mj.gif)
+![Just and apple](./.renders/apple.svg)
+![DNA](./.renders/dna.svg)
+![flask](./.renders/flask.svg)
+![>|_||\\|K2!\]34\]](https://i.imgur.com/28Iddmq.gif)
+![Boltzmann](https://i.imgur.com/UkoGtzi.gif)
+![stone](./.renders/stone.svg)
+
 
 ## 3a
 3a is a simple text format for ascii animations.

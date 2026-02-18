@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="140" viewBox="0 0 192 140" role="img">
+<style>
+text { font-family: "Courier New", monospace; font-size:20px; }
+</style>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">                </tspan>
+<tspan x="0" y="22">                </tspan>
+<tspan x="0" y="42">                </tspan>
+<tspan x="0" y="62">                </tspan>
+<tspan x="0" y="82">                </tspan>
+<tspan x="0" y="102">                </tspan>
+<tspan x="0" y="122">                </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">                </tspan>
+<tspan x="0" y="22">                </tspan>
+<tspan x="0" y="42">                </tspan>
+<tspan x="0" y="62">                </tspan>
+<tspan x="0" y="82">                </tspan>
+<tspan x="0" y="102">                </tspan>
+<tspan x="0" y="122">             .  </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">                </tspan>
+<tspan x="0" y="22">                </tspan>
+<tspan x="0" y="42">                </tspan>
+<tspan x="0" y="62">                </tspan>
+<tspan x="0" y="82">                </tspan>
+<tspan x="0" y="102">                </tspan>
+<tspan x="0" y="122">           '-.  </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">                </tspan>
+<tspan x="0" y="22">                </tspan>
+<tspan x="0" y="42">                </tspan>
+<tspan x="0" y="62">                </tspan>
+<tspan x="0" y="82">                </tspan>
+<tspan x="0" y="102">         /_     </tspan>
+<tspan x="0" y="122">           '-.  </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">                </tspan>
+<tspan x="0" y="22">                </tspan>
+<tspan x="0" y="42">                </tspan>
+<tspan x="0" y="62">                </tspan>
+<tspan x="0" y="82">        '.      </tspan>
+<tspan x="0" y="102">         /_     </tspan>
+<tspan x="0" y="122">           '-.  </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">                </tspan>
+<tspan x="0" y="22">                </tspan>
+<tspan x="0" y="42">                </tspan>
+<tspan x="0" y="62">                </tspan>
+<tspan x="0" y="82">      .''.      </tspan>
+<tspan x="0" y="102">         /_     </tspan>
+<tspan x="0" y="122">           '-.  </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">                </tspan>
+<tspan x="0" y="22">                </tspan>
+<tspan x="0" y="42">                </tspan>
+<tspan x="0" y="62">                </tspan>
+<tspan x="0" y="82">      .''.      </tspan>
+<tspan x="0" y="102">     _\  /_     </tspan>
+<tspan x="0" y="122">           '-.  </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">                </tspan>
+<tspan x="0" y="22">                </tspan>
+<tspan x="0" y="42">                </tspan>
+<tspan x="0" y="62">                </tspan>
+<tspan x="0" y="82">      .''.      </tspan>
+<tspan x="0" y="102">     _\  /_     </tspan>
+<tspan x="0" y="122">   -'      '-.  </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">                </tspan>
+<tspan x="0" y="22">                </tspan>
+<tspan x="0" y="42">                </tspan>
+<tspan x="0" y="62">                </tspan>
+<tspan x="0" y="82">      .''.      </tspan>
+<tspan x="0" y="102">     _\  /_     </tspan>
+<tspan x="0" y="122"> /.-'      '-.  </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">                </tspan>
+<tspan x="0" y="22">                </tspan>
+<tspan x="0" y="42">                </tspan>
+<tspan x="0" y="62">                </tspan>
+<tspan x="0" y="82">   /  .''.      </tspan>
+<tspan x="0" y="102">  /  _\  /_     </tspan>
+<tspan x="0" y="122"> /.-'      '-.  </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">                </tspan>
+<tspan x="0" y="22">                </tspan>
+<tspan x="0" y="42">     ..         </tspan>
+<tspan x="0" y="62">    /           </tspan>
+<tspan x="0" y="82">   /  .''.      </tspan>
+<tspan x="0" y="102">  /  _\  /_     </tspan>
+<tspan x="0" y="122"> /.-'      '-.  </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">       /        </tspan>
+<tspan x="0" y="22">      /         </tspan>
+<tspan x="0" y="42">     ..'        </tspan>
+<tspan x="0" y="62">    /           </tspan>
+<tspan x="0" y="82">   /  .''.      </tspan>
+<tspan x="0" y="102">  /  _\  /_     </tspan>
+<tspan x="0" y="122"> /.-'      '-.  </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">       /\       </tspan>
+<tspan x="0" y="22">      /         </tspan>
+<tspan x="0" y="42">     ..'        </tspan>
+<tspan x="0" y="62">    /           </tspan>
+<tspan x="0" y="82">   /  .''.      </tspan>
+<tspan x="0" y="102">  /  _\  /_     </tspan>
+<tspan x="0" y="122"> /.-'      '-.  </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">       /\       </tspan>
+<tspan x="0" y="22">      /  \      </tspan>
+<tspan x="0" y="42">     ..'  \     </tspan>
+<tspan x="0" y="62">    /           </tspan>
+<tspan x="0" y="82">   /  .''.      </tspan>
+<tspan x="0" y="102">  /  _\  /_     </tspan>
+<tspan x="0" y="122"> /.-'      '-.  </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">       /\       </tspan>
+<tspan x="0" y="22">      /  \      </tspan>
+<tspan x="0" y="42">     ..'  \     </tspan>
+<tspan x="0" y="62">    /      \    </tspan>
+<tspan x="0" y="82">   /  .''. _\   </tspan>
+<tspan x="0" y="102">  /  _\  /_     </tspan>
+<tspan x="0" y="122"> /.-'      '-.  </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">       /\       </tspan>
+<tspan x="0" y="22">      /  \      </tspan>
+<tspan x="0" y="42">     ..'  \     </tspan>
+<tspan x="0" y="62">    /      \    </tspan>
+<tspan x="0" y="82">   /  .''. _\   </tspan>
+<tspan x="0" y="102">  /  _\  /_  \  </tspan>
+<tspan x="0" y="122"> /.-'      '-.\ </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">       /\       </tspan>
+<tspan x="0" y="22">      /  \      </tspan>
+<tspan x="0" y="42">     ..'  \     </tspan>
+<tspan x="0" y="62">    /      \    </tspan>
+<tspan x="0" y="82">   /  .''. _\   </tspan>
+<tspan x="0" y="102">  /  _\  /_  \  </tspan>
+<tspan x="0" y="122"> /.-'      '  \ </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">       /\       </tspan>
+<tspan x="0" y="22">      /  \      </tspan>
+<tspan x="0" y="42">     ..'  \     </tspan>
+<tspan x="0" y="62">    /      \    </tspan>
+<tspan x="0" y="82">   /  .''. _\   </tspan>
+<tspan x="0" y="102">  /  _\  /   \  </tspan>
+<tspan x="0" y="122"> /.-'         \ </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">       /\       </tspan>
+<tspan x="0" y="22">      /  \      </tspan>
+<tspan x="0" y="42">     ..'  \     </tspan>
+<tspan x="0" y="62">    /      \    </tspan>
+<tspan x="0" y="82">   /  .''  _\   </tspan>
+<tspan x="0" y="102">  /  _\      \  </tspan>
+<tspan x="0" y="122"> /.-'         \ </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">       /\       </tspan>
+<tspan x="0" y="22">      /  \      </tspan>
+<tspan x="0" y="42">     ..'  \     </tspan>
+<tspan x="0" y="62">    /      \    </tspan>
+<tspan x="0" y="82">   /  .    _\   </tspan>
+<tspan x="0" y="102">  /  _\      \  </tspan>
+<tspan x="0" y="122"> /.-'         \ </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">       /\       </tspan>
+<tspan x="0" y="22">      /  \      </tspan>
+<tspan x="0" y="42">     ..'  \     </tspan>
+<tspan x="0" y="62">    /      \    </tspan>
+<tspan x="0" y="82">   /       _\   </tspan>
+<tspan x="0" y="102">  /  _       \  </tspan>
+<tspan x="0" y="122"> /.-'         \ </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">       /\       </tspan>
+<tspan x="0" y="22">      /  \      </tspan>
+<tspan x="0" y="42">     ..'  \     </tspan>
+<tspan x="0" y="62">    /      \    </tspan>
+<tspan x="0" y="82">   /       _\   </tspan>
+<tspan x="0" y="102">  /          \  </tspan>
+<tspan x="0" y="122"> /.-          \ </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">       /\       </tspan>
+<tspan x="0" y="22">      /  \      </tspan>
+<tspan x="0" y="42">     ..'  \     </tspan>
+<tspan x="0" y="62">    /      \    </tspan>
+<tspan x="0" y="82">   /       _\   </tspan>
+<tspan x="0" y="102">  /          \  </tspan>
+<tspan x="0" y="122"> /            \ </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">       /\       </tspan>
+<tspan x="0" y="22">      /  \      </tspan>
+<tspan x="0" y="42">     ..'  \     </tspan>
+<tspan x="0" y="62">    /      \    </tspan>
+<tspan x="0" y="82">   /       _\   </tspan>
+<tspan x="0" y="102">             \  </tspan>
+<tspan x="0" y="122">              \ </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">       /\       </tspan>
+<tspan x="0" y="22">      /  \      </tspan>
+<tspan x="0" y="42">     ..'  \     </tspan>
+<tspan x="0" y="62">           \    </tspan>
+<tspan x="0" y="82">           _\   </tspan>
+<tspan x="0" y="102">             \  </tspan>
+<tspan x="0" y="122">              \ </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">       /\       </tspan>
+<tspan x="0" y="22">      /  \      </tspan>
+<tspan x="0" y="42">          \     </tspan>
+<tspan x="0" y="62">           \    </tspan>
+<tspan x="0" y="82">           _\   </tspan>
+<tspan x="0" y="102">             \  </tspan>
+<tspan x="0" y="122">              \ </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">        \       </tspan>
+<tspan x="0" y="22">         \      </tspan>
+<tspan x="0" y="42">          \     </tspan>
+<tspan x="0" y="62">           \    </tspan>
+<tspan x="0" y="82">           _\   </tspan>
+<tspan x="0" y="102">             \  </tspan>
+<tspan x="0" y="122">              \ </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">                </tspan>
+<tspan x="0" y="22">                </tspan>
+<tspan x="0" y="42">          \     </tspan>
+<tspan x="0" y="62">           \    </tspan>
+<tspan x="0" y="82">           _\   </tspan>
+<tspan x="0" y="102">             \  </tspan>
+<tspan x="0" y="122">              \ </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">                </tspan>
+<tspan x="0" y="22">                </tspan>
+<tspan x="0" y="42">                </tspan>
+<tspan x="0" y="62">                </tspan>
+<tspan x="0" y="82">           _\   </tspan>
+<tspan x="0" y="102">             \  </tspan>
+<tspan x="0" y="122">              \ </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">                </tspan>
+<tspan x="0" y="22">                </tspan>
+<tspan x="0" y="42">                </tspan>
+<tspan x="0" y="62">                </tspan>
+<tspan x="0" y="82">                </tspan>
+<tspan x="0" y="102">             \  </tspan>
+<tspan x="0" y="122">              \ </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2">                </tspan>
+<tspan x="0" y="22">                </tspan>
+<tspan x="0" y="42">                </tspan>
+<tspan x="0" y="62">                </tspan>
+<tspan x="0" y="82">                </tspan>
+<tspan x="0" y="102">                </tspan>
+<tspan x="0" y="122">                </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="1.55s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0" keyTimes="0;0.032258;0.064516;0.096774;0.129032;0.16129;0.193548;0.225806;0.258065;0.290323;0.322581;0.354839;0.387097;0.419355;0.451613;0.483871;0.516129;0.548387;0.580645;0.612903;0.645161;0.677419;0.709677;0.741935;0.774194;0.806452;0.83871;0.870968;0.903226;0.935484;0.967742;1" />
+</g>
+
+</svg>
+

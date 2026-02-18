@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="280" viewBox="0 0 108 280" role="img">
+<style>
+text { font-family: "Courier New", monospace; font-size:20px; }
+</style>
+<rect x="0"  y="0"  width="108" height="280" fill="#000000"/>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2" fill="#800080">g</tspan>
+<tspan x="12" y="2" fill="#000080">-</tspan>
+<tspan x="24" y="2" fill="#000080">-</tspan>
+<tspan x="36" y="2" fill="#000080">-</tspan>
+<tspan x="48" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="2" fill="#ff0000">C</tspan>
+<tspan x="0" y="22" fill="#000000"> </tspan>
+<tspan x="12" y="22" fill="#808000">c</tspan>
+<tspan x="24" y="22" fill="#000080">-</tspan>
+<tspan x="36" y="22" fill="#000080">-</tspan>
+<tspan x="48" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="22" fill="#ff00ff">G</tspan>
+<tspan x="96" y="22" fill="#000000"> </tspan>
+<tspan x="0" y="42" fill="#000000"> </tspan>
+<tspan x="12" y="42" fill="#000000"> </tspan>
+<tspan x="24" y="42" fill="#000000"> </tspan>
+<tspan x="36" y="42" fill="#ffff00">t</tspan>
+<tspan x="48" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="42" fill="#0000ff">A</tspan>
+<tspan x="72" y="42" fill="#000000"> </tspan>
+<tspan x="84" y="42" fill="#000000"> </tspan>
+<tspan x="96" y="42" fill="#000000"> </tspan>
+<tspan x="0" y="62" fill="#000000"> </tspan>
+<tspan x="12" y="62" fill="#000000"> </tspan>
+<tspan x="24" y="62" fill="#000000"> </tspan>
+<tspan x="36" y="62" fill="#000000"> </tspan>
+<tspan x="48" y="62" fill="#ffff00">T</tspan>
+<tspan x="60" y="62" fill="#000000"> </tspan>
+<tspan x="72" y="62" fill="#000000"> </tspan>
+<tspan x="84" y="62" fill="#000000"> </tspan>
+<tspan x="96" y="62" fill="#000000"> </tspan>
+<tspan x="0" y="82" fill="#000000"> </tspan>
+<tspan x="12" y="82" fill="#000000"> </tspan>
+<tspan x="24" y="82" fill="#000000"> </tspan>
+<tspan x="36" y="82" fill="#ff0000">C</tspan>
+<tspan x="48" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="82" fill="#800080">g</tspan>
+<tspan x="72" y="82" fill="#000000"> </tspan>
+<tspan x="84" y="82" fill="#000000"> </tspan>
+<tspan x="96" y="82" fill="#000000"> </tspan>
+<tspan x="0" y="102" fill="#000000"> </tspan>
+<tspan x="12" y="102" fill="#ff00ff">G</tspan>
+<tspan x="24" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="102" fill="#000080">-</tspan>
+<tspan x="72" y="102" fill="#000080">-</tspan>
+<tspan x="84" y="102" fill="#808000">c</tspan>
+<tspan x="96" y="102" fill="#000000"> </tspan>
+<tspan x="0" y="122" fill="#0000ff">A</tspan>
+<tspan x="12" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="122" fill="#000080">-</tspan>
+<tspan x="72" y="122" fill="#000080">-</tspan>
+<tspan x="84" y="122" fill="#000080">-</tspan>
+<tspan x="96" y="122" fill="#c0c0c0">t</tspan>
+<tspan x="0" y="142" fill="#800080">g</tspan>
+<tspan x="12" y="142" fill="#000080">-</tspan>
+<tspan x="24" y="142" fill="#000080">-</tspan>
+<tspan x="36" y="142" fill="#000080">-</tspan>
+<tspan x="48" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="142" fill="#ff0000">C</tspan>
+<tspan x="0" y="162" fill="#000000"> </tspan>
+<tspan x="12" y="162" fill="#808000">c</tspan>
+<tspan x="24" y="162" fill="#000080">-</tspan>
+<tspan x="36" y="162" fill="#000080">-</tspan>
+<tspan x="48" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="162" fill="#ff00ff">G</tspan>
+<tspan x="96" y="162" fill="#000000"> </tspan>
+<tspan x="0" y="182" fill="#000000"> </tspan>
+<tspan x="12" y="182" fill="#000000"> </tspan>
+<tspan x="24" y="182" fill="#000000"> </tspan>
+<tspan x="36" y="182" fill="#c0c0c0">t</tspan>
+<tspan x="48" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="182" fill="#0000ff">A</tspan>
+<tspan x="72" y="182" fill="#000000"> </tspan>
+<tspan x="84" y="182" fill="#000000"> </tspan>
+<tspan x="96" y="182" fill="#000000"> </tspan>
+<tspan x="0" y="202" fill="#000000"> </tspan>
+<tspan x="12" y="202" fill="#000000"> </tspan>
+<tspan x="24" y="202" fill="#000000"> </tspan>
+<tspan x="36" y="202" fill="#000000"> </tspan>
+<tspan x="48" y="202" fill="#ffff00">T</tspan>
+<tspan x="60" y="202" fill="#000000"> </tspan>
+<tspan x="72" y="202" fill="#000000"> </tspan>
+<tspan x="84" y="202" fill="#000000"> </tspan>
+<tspan x="96" y="202" fill="#000000"> </tspan>
+<tspan x="0" y="222" fill="#000000"> </tspan>
+<tspan x="12" y="222" fill="#000000"> </tspan>
+<tspan x="24" y="222" fill="#000000"> </tspan>
+<tspan x="36" y="222" fill="#ff0000">C</tspan>
+<tspan x="48" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="222" fill="#800080">g</tspan>
+<tspan x="72" y="222" fill="#000000"> </tspan>
+<tspan x="84" y="222" fill="#000000"> </tspan>
+<tspan x="96" y="222" fill="#000000"> </tspan>
+<tspan x="0" y="242" fill="#000000"> </tspan>
+<tspan x="12" y="242" fill="#ff00ff">G</tspan>
+<tspan x="24" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="242" fill="#000080">-</tspan>
+<tspan x="72" y="242" fill="#000080">-</tspan>
+<tspan x="84" y="242" fill="#808000">c</tspan>
+<tspan x="96" y="242" fill="#000000"> </tspan>
+<tspan x="0" y="262" fill="#0000ff">A</tspan>
+<tspan x="12" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="262" fill="#000080">-</tspan>
+<tspan x="72" y="262" fill="#000080">-</tspan>
+<tspan x="84" y="262" fill="#000080">-</tspan>
+<tspan x="96" y="262" fill="#c0c0c0">t</tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="0.4s" repeatCount="indefinite" calcMode="discrete" values="1;0;0;0;0;0;0;0;0" keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2" fill="#000000"> </tspan>
+<tspan x="12" y="2" fill="#808000">c</tspan>
+<tspan x="24" y="2" fill="#000080">-</tspan>
+<tspan x="36" y="2" fill="#000080">-</tspan>
+<tspan x="48" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="2" fill="#ff00ff">G</tspan>
+<tspan x="96" y="2" fill="#000000"> </tspan>
+<tspan x="0" y="22" fill="#000000"> </tspan>
+<tspan x="12" y="22" fill="#000000"> </tspan>
+<tspan x="24" y="22" fill="#000000"> </tspan>
+<tspan x="36" y="22" fill="#ffff00">t</tspan>
+<tspan x="48" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="22" fill="#0000ff">A</tspan>
+<tspan x="72" y="22" fill="#000000"> </tspan>
+<tspan x="84" y="22" fill="#000000"> </tspan>
+<tspan x="96" y="22" fill="#000000"> </tspan>
+<tspan x="0" y="42" fill="#000000"> </tspan>
+<tspan x="12" y="42" fill="#000000"> </tspan>
+<tspan x="24" y="42" fill="#000000"> </tspan>
+<tspan x="36" y="42" fill="#000000"> </tspan>
+<tspan x="48" y="42" fill="#ffff00">T</tspan>
+<tspan x="60" y="42" fill="#000000"> </tspan>
+<tspan x="72" y="42" fill="#000000"> </tspan>
+<tspan x="84" y="42" fill="#000000"> </tspan>
+<tspan x="96" y="42" fill="#000000"> </tspan>
+<tspan x="0" y="62" fill="#000000"> </tspan>
+<tspan x="12" y="62" fill="#000000"> </tspan>
+<tspan x="24" y="62" fill="#000000"> </tspan>
+<tspan x="36" y="62" fill="#ff0000">C</tspan>
+<tspan x="48" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="62" fill="#800080">g</tspan>
+<tspan x="72" y="62" fill="#000000"> </tspan>
+<tspan x="84" y="62" fill="#000000"> </tspan>
+<tspan x="96" y="62" fill="#000000"> </tspan>
+<tspan x="0" y="82" fill="#000000"> </tspan>
+<tspan x="12" y="82" fill="#ff00ff">G</tspan>
+<tspan x="24" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="82" fill="#000080">-</tspan>
+<tspan x="72" y="82" fill="#000080">-</tspan>
+<tspan x="84" y="82" fill="#808000">c</tspan>
+<tspan x="96" y="82" fill="#000000"> </tspan>
+<tspan x="0" y="102" fill="#0000ff">A</tspan>
+<tspan x="12" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="102" fill="#000080">-</tspan>
+<tspan x="72" y="102" fill="#000080">-</tspan>
+<tspan x="84" y="102" fill="#000080">-</tspan>
+<tspan x="96" y="102" fill="#c0c0c0">t</tspan>
+<tspan x="0" y="122" fill="#800080">g</tspan>
+<tspan x="12" y="122" fill="#000080">-</tspan>
+<tspan x="24" y="122" fill="#000080">-</tspan>
+<tspan x="36" y="122" fill="#000080">-</tspan>
+<tspan x="48" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="122" fill="#ff0000">C</tspan>
+<tspan x="0" y="142" fill="#000000"> </tspan>
+<tspan x="12" y="142" fill="#808000">c</tspan>
+<tspan x="24" y="142" fill="#000080">-</tspan>
+<tspan x="36" y="142" fill="#000080">-</tspan>
+<tspan x="48" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="142" fill="#ff00ff">G</tspan>
+<tspan x="96" y="142" fill="#000000"> </tspan>
+<tspan x="0" y="162" fill="#000000"> </tspan>
+<tspan x="12" y="162" fill="#000000"> </tspan>
+<tspan x="24" y="162" fill="#000000"> </tspan>
+<tspan x="36" y="162" fill="#c0c0c0">t</tspan>
+<tspan x="48" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="162" fill="#0000ff">A</tspan>
+<tspan x="72" y="162" fill="#000000"> </tspan>
+<tspan x="84" y="162" fill="#000000"> </tspan>
+<tspan x="96" y="162" fill="#000000"> </tspan>
+<tspan x="0" y="182" fill="#000000"> </tspan>
+<tspan x="12" y="182" fill="#000000"> </tspan>
+<tspan x="24" y="182" fill="#000000"> </tspan>
+<tspan x="36" y="182" fill="#000000"> </tspan>
+<tspan x="48" y="182" fill="#ffff00">T</tspan>
+<tspan x="60" y="182" fill="#000000"> </tspan>
+<tspan x="72" y="182" fill="#000000"> </tspan>
+<tspan x="84" y="182" fill="#000000"> </tspan>
+<tspan x="96" y="182" fill="#000000"> </tspan>
+<tspan x="0" y="202" fill="#000000"> </tspan>
+<tspan x="12" y="202" fill="#000000"> </tspan>
+<tspan x="24" y="202" fill="#000000"> </tspan>
+<tspan x="36" y="202" fill="#ff0000">C</tspan>
+<tspan x="48" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="202" fill="#800080">g</tspan>
+<tspan x="72" y="202" fill="#000000"> </tspan>
+<tspan x="84" y="202" fill="#000000"> </tspan>
+<tspan x="96" y="202" fill="#000000"> </tspan>
+<tspan x="0" y="222" fill="#000000"> </tspan>
+<tspan x="12" y="222" fill="#ff00ff">G</tspan>
+<tspan x="24" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="222" fill="#000080">-</tspan>
+<tspan x="72" y="222" fill="#000080">-</tspan>
+<tspan x="84" y="222" fill="#808000">c</tspan>
+<tspan x="96" y="222" fill="#000000"> </tspan>
+<tspan x="0" y="242" fill="#0000ff">A</tspan>
+<tspan x="12" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="242" fill="#000080">-</tspan>
+<tspan x="72" y="242" fill="#000080">-</tspan>
+<tspan x="84" y="242" fill="#000080">-</tspan>
+<tspan x="96" y="242" fill="#c0c0c0">t</tspan>
+<tspan x="0" y="262" fill="#800080">g</tspan>
+<tspan x="12" y="262" fill="#000080">-</tspan>
+<tspan x="24" y="262" fill="#000080">-</tspan>
+<tspan x="36" y="262" fill="#000080">-</tspan>
+<tspan x="48" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="262" fill="#ff0000">C</tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="0.4s" repeatCount="indefinite" calcMode="discrete" values="0;1;0;0;0;0;0;0;0" keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2" fill="#000000"> </tspan>
+<tspan x="12" y="2" fill="#000000"> </tspan>
+<tspan x="24" y="2" fill="#000000"> </tspan>
+<tspan x="36" y="2" fill="#ffff00">t</tspan>
+<tspan x="48" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="2" fill="#0000ff">A</tspan>
+<tspan x="72" y="2" fill="#000000"> </tspan>
+<tspan x="84" y="2" fill="#000000"> </tspan>
+<tspan x="96" y="2" fill="#000000"> </tspan>
+<tspan x="0" y="22" fill="#000000"> </tspan>
+<tspan x="12" y="22" fill="#000000"> </tspan>
+<tspan x="24" y="22" fill="#000000"> </tspan>
+<tspan x="36" y="22" fill="#000000"> </tspan>
+<tspan x="48" y="22" fill="#ffff00">T</tspan>
+<tspan x="60" y="22" fill="#000000"> </tspan>
+<tspan x="72" y="22" fill="#000000"> </tspan>
+<tspan x="84" y="22" fill="#000000"> </tspan>
+<tspan x="96" y="22" fill="#000000"> </tspan>
+<tspan x="0" y="42" fill="#000000"> </tspan>
+<tspan x="12" y="42" fill="#000000"> </tspan>
+<tspan x="24" y="42" fill="#000000"> </tspan>
+<tspan x="36" y="42" fill="#ff0000">C</tspan>
+<tspan x="48" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="42" fill="#800080">g</tspan>
+<tspan x="72" y="42" fill="#000000"> </tspan>
+<tspan x="84" y="42" fill="#000000"> </tspan>
+<tspan x="96" y="42" fill="#000000"> </tspan>
+<tspan x="0" y="62" fill="#000000"> </tspan>
+<tspan x="12" y="62" fill="#ff00ff">G</tspan>
+<tspan x="24" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="62" fill="#000080">-</tspan>
+<tspan x="72" y="62" fill="#000080">-</tspan>
+<tspan x="84" y="62" fill="#808000">c</tspan>
+<tspan x="96" y="62" fill="#000000"> </tspan>
+<tspan x="0" y="82" fill="#0000ff">A</tspan>
+<tspan x="12" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="82" fill="#000080">-</tspan>
+<tspan x="72" y="82" fill="#000080">-</tspan>
+<tspan x="84" y="82" fill="#000080">-</tspan>
+<tspan x="96" y="82" fill="#c0c0c0">t</tspan>
+<tspan x="0" y="102" fill="#800080">g</tspan>
+<tspan x="12" y="102" fill="#000080">-</tspan>
+<tspan x="24" y="102" fill="#000080">-</tspan>
+<tspan x="36" y="102" fill="#000080">-</tspan>
+<tspan x="48" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="102" fill="#ff0000">C</tspan>
+<tspan x="0" y="122" fill="#000000"> </tspan>
+<tspan x="12" y="122" fill="#808000">c</tspan>
+<tspan x="24" y="122" fill="#000080">-</tspan>
+<tspan x="36" y="122" fill="#000080">-</tspan>
+<tspan x="48" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="122" fill="#ff00ff">G</tspan>
+<tspan x="96" y="122" fill="#000000"> </tspan>
+<tspan x="0" y="142" fill="#000000"> </tspan>
+<tspan x="12" y="142" fill="#000000"> </tspan>
+<tspan x="24" y="142" fill="#000000"> </tspan>
+<tspan x="36" y="142" fill="#c0c0c0">t</tspan>
+<tspan x="48" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="142" fill="#0000ff">A</tspan>
+<tspan x="72" y="142" fill="#000000"> </tspan>
+<tspan x="84" y="142" fill="#000000"> </tspan>
+<tspan x="96" y="142" fill="#000000"> </tspan>
+<tspan x="0" y="162" fill="#000000"> </tspan>
+<tspan x="12" y="162" fill="#000000"> </tspan>
+<tspan x="24" y="162" fill="#000000"> </tspan>
+<tspan x="36" y="162" fill="#000000"> </tspan>
+<tspan x="48" y="162" fill="#ffff00">T</tspan>
+<tspan x="60" y="162" fill="#000000"> </tspan>
+<tspan x="72" y="162" fill="#000000"> </tspan>
+<tspan x="84" y="162" fill="#000000"> </tspan>
+<tspan x="96" y="162" fill="#000000"> </tspan>
+<tspan x="0" y="182" fill="#000000"> </tspan>
+<tspan x="12" y="182" fill="#000000"> </tspan>
+<tspan x="24" y="182" fill="#000000"> </tspan>
+<tspan x="36" y="182" fill="#ff0000">C</tspan>
+<tspan x="48" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="182" fill="#800080">g</tspan>
+<tspan x="72" y="182" fill="#000000"> </tspan>
+<tspan x="84" y="182" fill="#000000"> </tspan>
+<tspan x="96" y="182" fill="#000000"> </tspan>
+<tspan x="0" y="202" fill="#000000"> </tspan>
+<tspan x="12" y="202" fill="#ff00ff">G</tspan>
+<tspan x="24" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="202" fill="#000080">-</tspan>
+<tspan x="72" y="202" fill="#000080">-</tspan>
+<tspan x="84" y="202" fill="#808000">c</tspan>
+<tspan x="96" y="202" fill="#000000"> </tspan>
+<tspan x="0" y="222" fill="#0000ff">A</tspan>
+<tspan x="12" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="222" fill="#000080">-</tspan>
+<tspan x="72" y="222" fill="#000080">-</tspan>
+<tspan x="84" y="222" fill="#000080">-</tspan>
+<tspan x="96" y="222" fill="#c0c0c0">t</tspan>
+<tspan x="0" y="242" fill="#800080">g</tspan>
+<tspan x="12" y="242" fill="#000080">-</tspan>
+<tspan x="24" y="242" fill="#000080">-</tspan>
+<tspan x="36" y="242" fill="#000080">-</tspan>
+<tspan x="48" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="242" fill="#ff0000">C</tspan>
+<tspan x="0" y="262" fill="#000000"> </tspan>
+<tspan x="12" y="262" fill="#808000">c</tspan>
+<tspan x="24" y="262" fill="#000080">-</tspan>
+<tspan x="36" y="262" fill="#000080">-</tspan>
+<tspan x="48" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="262" fill="#ff00ff">G</tspan>
+<tspan x="96" y="262" fill="#000000"> </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="0.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;0;0;0;0;0;0" keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2" fill="#000000"> </tspan>
+<tspan x="12" y="2" fill="#000000"> </tspan>
+<tspan x="24" y="2" fill="#000000"> </tspan>
+<tspan x="36" y="2" fill="#000000"> </tspan>
+<tspan x="48" y="2" fill="#ffff00">T</tspan>
+<tspan x="60" y="2" fill="#000000"> </tspan>
+<tspan x="72" y="2" fill="#000000"> </tspan>
+<tspan x="84" y="2" fill="#000000"> </tspan>
+<tspan x="96" y="2" fill="#000000"> </tspan>
+<tspan x="0" y="22" fill="#000000"> </tspan>
+<tspan x="12" y="22" fill="#000000"> </tspan>
+<tspan x="24" y="22" fill="#000000"> </tspan>
+<tspan x="36" y="22" fill="#ff0000">C</tspan>
+<tspan x="48" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="22" fill="#800080">g</tspan>
+<tspan x="72" y="22" fill="#000000"> </tspan>
+<tspan x="84" y="22" fill="#000000"> </tspan>
+<tspan x="96" y="22" fill="#000000"> </tspan>
+<tspan x="0" y="42" fill="#000000"> </tspan>
+<tspan x="12" y="42" fill="#ff00ff">G</tspan>
+<tspan x="24" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="42" fill="#000080">-</tspan>
+<tspan x="72" y="42" fill="#000080">-</tspan>
+<tspan x="84" y="42" fill="#808000">c</tspan>
+<tspan x="96" y="42" fill="#000000"> </tspan>
+<tspan x="0" y="62" fill="#0000ff">A</tspan>
+<tspan x="12" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="62" fill="#000080">-</tspan>
+<tspan x="72" y="62" fill="#000080">-</tspan>
+<tspan x="84" y="62" fill="#000080">-</tspan>
+<tspan x="96" y="62" fill="#c0c0c0">t</tspan>
+<tspan x="0" y="82" fill="#800080">g</tspan>
+<tspan x="12" y="82" fill="#000080">-</tspan>
+<tspan x="24" y="82" fill="#000080">-</tspan>
+<tspan x="36" y="82" fill="#000080">-</tspan>
+<tspan x="48" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="82" fill="#ff0000">C</tspan>
+<tspan x="0" y="102" fill="#000000"> </tspan>
+<tspan x="12" y="102" fill="#808000">c</tspan>
+<tspan x="24" y="102" fill="#000080">-</tspan>
+<tspan x="36" y="102" fill="#000080">-</tspan>
+<tspan x="48" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="102" fill="#ff00ff">G</tspan>
+<tspan x="96" y="102" fill="#000000"> </tspan>
+<tspan x="0" y="122" fill="#000000"> </tspan>
+<tspan x="12" y="122" fill="#000000"> </tspan>
+<tspan x="24" y="122" fill="#000000"> </tspan>
+<tspan x="36" y="122" fill="#c0c0c0">t</tspan>
+<tspan x="48" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="122" fill="#0000ff">A</tspan>
+<tspan x="72" y="122" fill="#000000"> </tspan>
+<tspan x="84" y="122" fill="#000000"> </tspan>
+<tspan x="96" y="122" fill="#000000"> </tspan>
+<tspan x="0" y="142" fill="#000000"> </tspan>
+<tspan x="12" y="142" fill="#000000"> </tspan>
+<tspan x="24" y="142" fill="#000000"> </tspan>
+<tspan x="36" y="142" fill="#000000"> </tspan>
+<tspan x="48" y="142" fill="#ffff00">T</tspan>
+<tspan x="60" y="142" fill="#000000"> </tspan>
+<tspan x="72" y="142" fill="#000000"> </tspan>
+<tspan x="84" y="142" fill="#000000"> </tspan>
+<tspan x="96" y="142" fill="#000000"> </tspan>
+<tspan x="0" y="162" fill="#000000"> </tspan>
+<tspan x="12" y="162" fill="#000000"> </tspan>
+<tspan x="24" y="162" fill="#000000"> </tspan>
+<tspan x="36" y="162" fill="#ff0000">C</tspan>
+<tspan x="48" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="162" fill="#800080">g</tspan>
+<tspan x="72" y="162" fill="#000000"> </tspan>
+<tspan x="84" y="162" fill="#000000"> </tspan>
+<tspan x="96" y="162" fill="#000000"> </tspan>
+<tspan x="0" y="182" fill="#000000"> </tspan>
+<tspan x="12" y="182" fill="#ff00ff">G</tspan>
+<tspan x="24" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="182" fill="#000080">-</tspan>
+<tspan x="72" y="182" fill="#000080">-</tspan>
+<tspan x="84" y="182" fill="#808000">c</tspan>
+<tspan x="96" y="182" fill="#000000"> </tspan>
+<tspan x="0" y="202" fill="#0000ff">A</tspan>
+<tspan x="12" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="202" fill="#000080">-</tspan>
+<tspan x="72" y="202" fill="#000080">-</tspan>
+<tspan x="84" y="202" fill="#000080">-</tspan>
+<tspan x="96" y="202" fill="#c0c0c0">t</tspan>
+<tspan x="0" y="222" fill="#800080">g</tspan>
+<tspan x="12" y="222" fill="#000080">-</tspan>
+<tspan x="24" y="222" fill="#000080">-</tspan>
+<tspan x="36" y="222" fill="#000080">-</tspan>
+<tspan x="48" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="222" fill="#ff0000">C</tspan>
+<tspan x="0" y="242" fill="#000000"> </tspan>
+<tspan x="12" y="242" fill="#808000">c</tspan>
+<tspan x="24" y="242" fill="#000080">-</tspan>
+<tspan x="36" y="242" fill="#000080">-</tspan>
+<tspan x="48" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="242" fill="#ff00ff">G</tspan>
+<tspan x="96" y="242" fill="#000000"> </tspan>
+<tspan x="0" y="262" fill="#000000"> </tspan>
+<tspan x="12" y="262" fill="#000000"> </tspan>
+<tspan x="24" y="262" fill="#000000"> </tspan>
+<tspan x="36" y="262" fill="#ffff00">t</tspan>
+<tspan x="48" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="262" fill="#0000ff">A</tspan>
+<tspan x="72" y="262" fill="#000000"> </tspan>
+<tspan x="84" y="262" fill="#000000"> </tspan>
+<tspan x="96" y="262" fill="#000000"> </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="0.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;1;0;0;0;0;0" keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2" fill="#000000"> </tspan>
+<tspan x="12" y="2" fill="#000000"> </tspan>
+<tspan x="24" y="2" fill="#000000"> </tspan>
+<tspan x="36" y="2" fill="#ff0000">C</tspan>
+<tspan x="48" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="2" fill="#800080">g</tspan>
+<tspan x="72" y="2" fill="#000000"> </tspan>
+<tspan x="84" y="2" fill="#000000"> </tspan>
+<tspan x="96" y="2" fill="#000000"> </tspan>
+<tspan x="0" y="22" fill="#000000"> </tspan>
+<tspan x="12" y="22" fill="#ff00ff">G</tspan>
+<tspan x="24" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="22" fill="#000080">-</tspan>
+<tspan x="72" y="22" fill="#000080">-</tspan>
+<tspan x="84" y="22" fill="#808000">c</tspan>
+<tspan x="96" y="22" fill="#000000"> </tspan>
+<tspan x="0" y="42" fill="#0000ff">A</tspan>
+<tspan x="12" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="42" fill="#000080">-</tspan>
+<tspan x="72" y="42" fill="#000080">-</tspan>
+<tspan x="84" y="42" fill="#000080">-</tspan>
+<tspan x="96" y="42" fill="#c0c0c0">t</tspan>
+<tspan x="0" y="62" fill="#800080">g</tspan>
+<tspan x="12" y="62" fill="#000080">-</tspan>
+<tspan x="24" y="62" fill="#000080">-</tspan>
+<tspan x="36" y="62" fill="#000080">-</tspan>
+<tspan x="48" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="62" fill="#ff0000">C</tspan>
+<tspan x="0" y="82" fill="#000000"> </tspan>
+<tspan x="12" y="82" fill="#808000">c</tspan>
+<tspan x="24" y="82" fill="#000080">-</tspan>
+<tspan x="36" y="82" fill="#000080">-</tspan>
+<tspan x="48" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="82" fill="#ff00ff">G</tspan>
+<tspan x="96" y="82" fill="#000000"> </tspan>
+<tspan x="0" y="102" fill="#000000"> </tspan>
+<tspan x="12" y="102" fill="#000000"> </tspan>
+<tspan x="24" y="102" fill="#000000"> </tspan>
+<tspan x="36" y="102" fill="#c0c0c0">t</tspan>
+<tspan x="48" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="102" fill="#0000ff">A</tspan>
+<tspan x="72" y="102" fill="#000000"> </tspan>
+<tspan x="84" y="102" fill="#000000"> </tspan>
+<tspan x="96" y="102" fill="#000000"> </tspan>
+<tspan x="0" y="122" fill="#000000"> </tspan>
+<tspan x="12" y="122" fill="#000000"> </tspan>
+<tspan x="24" y="122" fill="#000000"> </tspan>
+<tspan x="36" y="122" fill="#000000"> </tspan>
+<tspan x="48" y="122" fill="#ffff00">T</tspan>
+<tspan x="60" y="122" fill="#000000"> </tspan>
+<tspan x="72" y="122" fill="#000000"> </tspan>
+<tspan x="84" y="122" fill="#000000"> </tspan>
+<tspan x="96" y="122" fill="#000000"> </tspan>
+<tspan x="0" y="142" fill="#000000"> </tspan>
+<tspan x="12" y="142" fill="#000000"> </tspan>
+<tspan x="24" y="142" fill="#000000"> </tspan>
+<tspan x="36" y="142" fill="#ff0000">C</tspan>
+<tspan x="48" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="142" fill="#800080">g</tspan>
+<tspan x="72" y="142" fill="#000000"> </tspan>
+<tspan x="84" y="142" fill="#000000"> </tspan>
+<tspan x="96" y="142" fill="#000000"> </tspan>
+<tspan x="0" y="162" fill="#000000"> </tspan>
+<tspan x="12" y="162" fill="#ff00ff">G</tspan>
+<tspan x="24" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="162" fill="#000080">-</tspan>
+<tspan x="72" y="162" fill="#000080">-</tspan>
+<tspan x="84" y="162" fill="#808000">c</tspan>
+<tspan x="96" y="162" fill="#000000"> </tspan>
+<tspan x="0" y="182" fill="#0000ff">A</tspan>
+<tspan x="12" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="182" fill="#000080">-</tspan>
+<tspan x="72" y="182" fill="#000080">-</tspan>
+<tspan x="84" y="182" fill="#000080">-</tspan>
+<tspan x="96" y="182" fill="#c0c0c0">t</tspan>
+<tspan x="0" y="202" fill="#800080">g</tspan>
+<tspan x="12" y="202" fill="#000080">-</tspan>
+<tspan x="24" y="202" fill="#000080">-</tspan>
+<tspan x="36" y="202" fill="#000080">-</tspan>
+<tspan x="48" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="202" fill="#ff0000">C</tspan>
+<tspan x="0" y="222" fill="#000000"> </tspan>
+<tspan x="12" y="222" fill="#808000">c</tspan>
+<tspan x="24" y="222" fill="#000080">-</tspan>
+<tspan x="36" y="222" fill="#000080">-</tspan>
+<tspan x="48" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="222" fill="#ff00ff">G</tspan>
+<tspan x="96" y="222" fill="#000000"> </tspan>
+<tspan x="0" y="242" fill="#000000"> </tspan>
+<tspan x="12" y="242" fill="#000000"> </tspan>
+<tspan x="24" y="242" fill="#000000"> </tspan>
+<tspan x="36" y="242" fill="#ffff00">t</tspan>
+<tspan x="48" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="242" fill="#0000ff">A</tspan>
+<tspan x="72" y="242" fill="#000000"> </tspan>
+<tspan x="84" y="242" fill="#000000"> </tspan>
+<tspan x="96" y="242" fill="#000000"> </tspan>
+<tspan x="0" y="262" fill="#000000"> </tspan>
+<tspan x="12" y="262" fill="#000000"> </tspan>
+<tspan x="24" y="262" fill="#000000"> </tspan>
+<tspan x="36" y="262" fill="#000000"> </tspan>
+<tspan x="48" y="262" fill="#ffff00">T</tspan>
+<tspan x="60" y="262" fill="#000000"> </tspan>
+<tspan x="72" y="262" fill="#000000"> </tspan>
+<tspan x="84" y="262" fill="#000000"> </tspan>
+<tspan x="96" y="262" fill="#000000"> </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="0.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;1;0;0;0;0" keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2" fill="#000000"> </tspan>
+<tspan x="12" y="2" fill="#ff00ff">G</tspan>
+<tspan x="24" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="2" fill="#000080">-</tspan>
+<tspan x="72" y="2" fill="#000080">-</tspan>
+<tspan x="84" y="2" fill="#808000">c</tspan>
+<tspan x="96" y="2" fill="#000000"> </tspan>
+<tspan x="0" y="22" fill="#0000ff">A</tspan>
+<tspan x="12" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="22" fill="#000080">-</tspan>
+<tspan x="72" y="22" fill="#000080">-</tspan>
+<tspan x="84" y="22" fill="#000080">-</tspan>
+<tspan x="96" y="22" fill="#c0c0c0">t</tspan>
+<tspan x="0" y="42" fill="#800080">g</tspan>
+<tspan x="12" y="42" fill="#000080">-</tspan>
+<tspan x="24" y="42" fill="#000080">-</tspan>
+<tspan x="36" y="42" fill="#000080">-</tspan>
+<tspan x="48" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="42" fill="#ff0000">C</tspan>
+<tspan x="0" y="62" fill="#000000"> </tspan>
+<tspan x="12" y="62" fill="#808000">c</tspan>
+<tspan x="24" y="62" fill="#000080">-</tspan>
+<tspan x="36" y="62" fill="#000080">-</tspan>
+<tspan x="48" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="62" fill="#ff00ff">G</tspan>
+<tspan x="96" y="62" fill="#000000"> </tspan>
+<tspan x="0" y="82" fill="#000000"> </tspan>
+<tspan x="12" y="82" fill="#000000"> </tspan>
+<tspan x="24" y="82" fill="#000000"> </tspan>
+<tspan x="36" y="82" fill="#c0c0c0">t</tspan>
+<tspan x="48" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="82" fill="#0000ff">A</tspan>
+<tspan x="72" y="82" fill="#000000"> </tspan>
+<tspan x="84" y="82" fill="#000000"> </tspan>
+<tspan x="96" y="82" fill="#000000"> </tspan>
+<tspan x="0" y="102" fill="#000000"> </tspan>
+<tspan x="12" y="102" fill="#000000"> </tspan>
+<tspan x="24" y="102" fill="#000000"> </tspan>
+<tspan x="36" y="102" fill="#000000"> </tspan>
+<tspan x="48" y="102" fill="#ffff00">T</tspan>
+<tspan x="60" y="102" fill="#000000"> </tspan>
+<tspan x="72" y="102" fill="#000000"> </tspan>
+<tspan x="84" y="102" fill="#000000"> </tspan>
+<tspan x="96" y="102" fill="#000000"> </tspan>
+<tspan x="0" y="122" fill="#000000"> </tspan>
+<tspan x="12" y="122" fill="#000000"> </tspan>
+<tspan x="24" y="122" fill="#000000"> </tspan>
+<tspan x="36" y="122" fill="#ff0000">C</tspan>
+<tspan x="48" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="122" fill="#800080">g</tspan>
+<tspan x="72" y="122" fill="#000000"> </tspan>
+<tspan x="84" y="122" fill="#000000"> </tspan>
+<tspan x="96" y="122" fill="#000000"> </tspan>
+<tspan x="0" y="142" fill="#000000"> </tspan>
+<tspan x="12" y="142" fill="#ff00ff">G</tspan>
+<tspan x="24" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="142" fill="#000080">-</tspan>
+<tspan x="72" y="142" fill="#000080">-</tspan>
+<tspan x="84" y="142" fill="#808000">c</tspan>
+<tspan x="96" y="142" fill="#000000"> </tspan>
+<tspan x="0" y="162" fill="#0000ff">A</tspan>
+<tspan x="12" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="162" fill="#000080">-</tspan>
+<tspan x="72" y="162" fill="#000080">-</tspan>
+<tspan x="84" y="162" fill="#000080">-</tspan>
+<tspan x="96" y="162" fill="#c0c0c0">t</tspan>
+<tspan x="0" y="182" fill="#800080">g</tspan>
+<tspan x="12" y="182" fill="#000080">-</tspan>
+<tspan x="24" y="182" fill="#000080">-</tspan>
+<tspan x="36" y="182" fill="#000080">-</tspan>
+<tspan x="48" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="182" fill="#ff0000">C</tspan>
+<tspan x="0" y="202" fill="#000000"> </tspan>
+<tspan x="12" y="202" fill="#808000">c</tspan>
+<tspan x="24" y="202" fill="#000080">-</tspan>
+<tspan x="36" y="202" fill="#000080">-</tspan>
+<tspan x="48" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="202" fill="#ff00ff">G</tspan>
+<tspan x="96" y="202" fill="#000000"> </tspan>
+<tspan x="0" y="222" fill="#000000"> </tspan>
+<tspan x="12" y="222" fill="#000000"> </tspan>
+<tspan x="24" y="222" fill="#000000"> </tspan>
+<tspan x="36" y="222" fill="#ffff00">t</tspan>
+<tspan x="48" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="222" fill="#0000ff">A</tspan>
+<tspan x="72" y="222" fill="#000000"> </tspan>
+<tspan x="84" y="222" fill="#000000"> </tspan>
+<tspan x="96" y="222" fill="#000000"> </tspan>
+<tspan x="0" y="242" fill="#000000"> </tspan>
+<tspan x="12" y="242" fill="#000000"> </tspan>
+<tspan x="24" y="242" fill="#000000"> </tspan>
+<tspan x="36" y="242" fill="#000000"> </tspan>
+<tspan x="48" y="242" fill="#ffff00">T</tspan>
+<tspan x="60" y="242" fill="#000000"> </tspan>
+<tspan x="72" y="242" fill="#000000"> </tspan>
+<tspan x="84" y="242" fill="#000000"> </tspan>
+<tspan x="96" y="242" fill="#000000"> </tspan>
+<tspan x="0" y="262" fill="#000000"> </tspan>
+<tspan x="12" y="262" fill="#000000"> </tspan>
+<tspan x="24" y="262" fill="#000000"> </tspan>
+<tspan x="36" y="262" fill="#ff0000">C</tspan>
+<tspan x="48" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="262" fill="#800080">g</tspan>
+<tspan x="72" y="262" fill="#000000"> </tspan>
+<tspan x="84" y="262" fill="#000000"> </tspan>
+<tspan x="96" y="262" fill="#000000"> </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="0.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;1;0;0;0" keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2" fill="#0000ff">A</tspan>
+<tspan x="12" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="2" fill="#000080">-</tspan>
+<tspan x="72" y="2" fill="#000080">-</tspan>
+<tspan x="84" y="2" fill="#000080">-</tspan>
+<tspan x="96" y="2" fill="#c0c0c0">t</tspan>
+<tspan x="0" y="22" fill="#800080">g</tspan>
+<tspan x="12" y="22" fill="#000080">-</tspan>
+<tspan x="24" y="22" fill="#000080">-</tspan>
+<tspan x="36" y="22" fill="#000080">-</tspan>
+<tspan x="48" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="22" fill="#ff0000">C</tspan>
+<tspan x="0" y="42" fill="#000000"> </tspan>
+<tspan x="12" y="42" fill="#808000">c</tspan>
+<tspan x="24" y="42" fill="#000080">-</tspan>
+<tspan x="36" y="42" fill="#000080">-</tspan>
+<tspan x="48" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="42" fill="#ff00ff">G</tspan>
+<tspan x="96" y="42" fill="#000000"> </tspan>
+<tspan x="0" y="62" fill="#000000"> </tspan>
+<tspan x="12" y="62" fill="#000000"> </tspan>
+<tspan x="24" y="62" fill="#000000"> </tspan>
+<tspan x="36" y="62" fill="#c0c0c0">t</tspan>
+<tspan x="48" y="62" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="62" fill="#0000ff">A</tspan>
+<tspan x="72" y="62" fill="#000000"> </tspan>
+<tspan x="84" y="62" fill="#000000"> </tspan>
+<tspan x="96" y="62" fill="#000000"> </tspan>
+<tspan x="0" y="82" fill="#000000"> </tspan>
+<tspan x="12" y="82" fill="#000000"> </tspan>
+<tspan x="24" y="82" fill="#000000"> </tspan>
+<tspan x="36" y="82" fill="#000000"> </tspan>
+<tspan x="48" y="82" fill="#ffff00">T</tspan>
+<tspan x="60" y="82" fill="#000000"> </tspan>
+<tspan x="72" y="82" fill="#000000"> </tspan>
+<tspan x="84" y="82" fill="#000000"> </tspan>
+<tspan x="96" y="82" fill="#000000"> </tspan>
+<tspan x="0" y="102" fill="#000000"> </tspan>
+<tspan x="12" y="102" fill="#000000"> </tspan>
+<tspan x="24" y="102" fill="#000000"> </tspan>
+<tspan x="36" y="102" fill="#ff0000">C</tspan>
+<tspan x="48" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="102" fill="#800080">g</tspan>
+<tspan x="72" y="102" fill="#000000"> </tspan>
+<tspan x="84" y="102" fill="#000000"> </tspan>
+<tspan x="96" y="102" fill="#000000"> </tspan>
+<tspan x="0" y="122" fill="#000000"> </tspan>
+<tspan x="12" y="122" fill="#ff00ff">G</tspan>
+<tspan x="24" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="122" fill="#000080">-</tspan>
+<tspan x="72" y="122" fill="#000080">-</tspan>
+<tspan x="84" y="122" fill="#808000">c</tspan>
+<tspan x="96" y="122" fill="#000000"> </tspan>
+<tspan x="0" y="142" fill="#0000ff">A</tspan>
+<tspan x="12" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="142" fill="#000080">-</tspan>
+<tspan x="72" y="142" fill="#000080">-</tspan>
+<tspan x="84" y="142" fill="#000080">-</tspan>
+<tspan x="96" y="142" fill="#c0c0c0">t</tspan>
+<tspan x="0" y="162" fill="#800080">g</tspan>
+<tspan x="12" y="162" fill="#000080">-</tspan>
+<tspan x="24" y="162" fill="#000080">-</tspan>
+<tspan x="36" y="162" fill="#000080">-</tspan>
+<tspan x="48" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="162" fill="#ff0000">C</tspan>
+<tspan x="0" y="182" fill="#000000"> </tspan>
+<tspan x="12" y="182" fill="#808000">c</tspan>
+<tspan x="24" y="182" fill="#000080">-</tspan>
+<tspan x="36" y="182" fill="#000080">-</tspan>
+<tspan x="48" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="182" fill="#ff00ff">G</tspan>
+<tspan x="96" y="182" fill="#000000"> </tspan>
+<tspan x="0" y="202" fill="#000000"> </tspan>
+<tspan x="12" y="202" fill="#000000"> </tspan>
+<tspan x="24" y="202" fill="#000000"> </tspan>
+<tspan x="36" y="202" fill="#ffff00">t</tspan>
+<tspan x="48" y="202" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="202" fill="#0000ff">A</tspan>
+<tspan x="72" y="202" fill="#000000"> </tspan>
+<tspan x="84" y="202" fill="#000000"> </tspan>
+<tspan x="96" y="202" fill="#000000"> </tspan>
+<tspan x="0" y="222" fill="#000000"> </tspan>
+<tspan x="12" y="222" fill="#000000"> </tspan>
+<tspan x="24" y="222" fill="#000000"> </tspan>
+<tspan x="36" y="222" fill="#000000"> </tspan>
+<tspan x="48" y="222" fill="#ffff00">T</tspan>
+<tspan x="60" y="222" fill="#000000"> </tspan>
+<tspan x="72" y="222" fill="#000000"> </tspan>
+<tspan x="84" y="222" fill="#000000"> </tspan>
+<tspan x="96" y="222" fill="#000000"> </tspan>
+<tspan x="0" y="242" fill="#000000"> </tspan>
+<tspan x="12" y="242" fill="#000000"> </tspan>
+<tspan x="24" y="242" fill="#000000"> </tspan>
+<tspan x="36" y="242" fill="#ff0000">C</tspan>
+<tspan x="48" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="242" fill="#800080">g</tspan>
+<tspan x="72" y="242" fill="#000000"> </tspan>
+<tspan x="84" y="242" fill="#000000"> </tspan>
+<tspan x="96" y="242" fill="#000000"> </tspan>
+<tspan x="0" y="262" fill="#000000"> </tspan>
+<tspan x="12" y="262" fill="#ff00ff">G</tspan>
+<tspan x="24" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="262" fill="#000080">-</tspan>
+<tspan x="72" y="262" fill="#000080">-</tspan>
+<tspan x="84" y="262" fill="#808000">c</tspan>
+<tspan x="96" y="262" fill="#000000"> </tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="0.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;1;0;0" keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" />
+</g>
+
+<g opacity="0">
+<text x="0" y="0" xml:space="preserve" dominant-baseline="hanging">
+<tspan x="0" y="2" fill="#800080">g</tspan>
+<tspan x="12" y="2" fill="#000080">-</tspan>
+<tspan x="24" y="2" fill="#000080">-</tspan>
+<tspan x="36" y="2" fill="#000080">-</tspan>
+<tspan x="48" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="2" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="2" fill="#ff0000">C</tspan>
+<tspan x="0" y="22" fill="#000000"> </tspan>
+<tspan x="12" y="22" fill="#808000">c</tspan>
+<tspan x="24" y="22" fill="#000080">-</tspan>
+<tspan x="36" y="22" fill="#000080">-</tspan>
+<tspan x="48" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="22" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="22" fill="#ff00ff">G</tspan>
+<tspan x="96" y="22" fill="#000000"> </tspan>
+<tspan x="0" y="42" fill="#000000"> </tspan>
+<tspan x="12" y="42" fill="#000000"> </tspan>
+<tspan x="24" y="42" fill="#000000"> </tspan>
+<tspan x="36" y="42" fill="#c0c0c0">t</tspan>
+<tspan x="48" y="42" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="42" fill="#0000ff">A</tspan>
+<tspan x="72" y="42" fill="#000000"> </tspan>
+<tspan x="84" y="42" fill="#000000"> </tspan>
+<tspan x="96" y="42" fill="#000000"> </tspan>
+<tspan x="0" y="62" fill="#000000"> </tspan>
+<tspan x="12" y="62" fill="#000000"> </tspan>
+<tspan x="24" y="62" fill="#000000"> </tspan>
+<tspan x="36" y="62" fill="#000000"> </tspan>
+<tspan x="48" y="62" fill="#ffff00">T</tspan>
+<tspan x="60" y="62" fill="#000000"> </tspan>
+<tspan x="72" y="62" fill="#000000"> </tspan>
+<tspan x="84" y="62" fill="#000000"> </tspan>
+<tspan x="96" y="62" fill="#000000"> </tspan>
+<tspan x="0" y="82" fill="#000000"> </tspan>
+<tspan x="12" y="82" fill="#000000"> </tspan>
+<tspan x="24" y="82" fill="#000000"> </tspan>
+<tspan x="36" y="82" fill="#ff0000">C</tspan>
+<tspan x="48" y="82" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="82" fill="#800080">g</tspan>
+<tspan x="72" y="82" fill="#000000"> </tspan>
+<tspan x="84" y="82" fill="#000000"> </tspan>
+<tspan x="96" y="82" fill="#000000"> </tspan>
+<tspan x="0" y="102" fill="#000000"> </tspan>
+<tspan x="12" y="102" fill="#ff00ff">G</tspan>
+<tspan x="24" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="102" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="102" fill="#000080">-</tspan>
+<tspan x="72" y="102" fill="#000080">-</tspan>
+<tspan x="84" y="102" fill="#808000">c</tspan>
+<tspan x="96" y="102" fill="#000000"> </tspan>
+<tspan x="0" y="122" fill="#0000ff">A</tspan>
+<tspan x="12" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="122" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="122" fill="#000080">-</tspan>
+<tspan x="72" y="122" fill="#000080">-</tspan>
+<tspan x="84" y="122" fill="#000080">-</tspan>
+<tspan x="96" y="122" fill="#c0c0c0">t</tspan>
+<tspan x="0" y="142" fill="#800080">g</tspan>
+<tspan x="12" y="142" fill="#000080">-</tspan>
+<tspan x="24" y="142" fill="#000080">-</tspan>
+<tspan x="36" y="142" fill="#000080">-</tspan>
+<tspan x="48" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="142" fill="#4e4e4e">-</tspan>
+<tspan x="96" y="142" fill="#ff0000">C</tspan>
+<tspan x="0" y="162" fill="#000000"> </tspan>
+<tspan x="12" y="162" fill="#808000">c</tspan>
+<tspan x="24" y="162" fill="#000080">-</tspan>
+<tspan x="36" y="162" fill="#000080">-</tspan>
+<tspan x="48" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="72" y="162" fill="#4e4e4e">-</tspan>
+<tspan x="84" y="162" fill="#ff00ff">G</tspan>
+<tspan x="96" y="162" fill="#000000"> </tspan>
+<tspan x="0" y="182" fill="#000000"> </tspan>
+<tspan x="12" y="182" fill="#000000"> </tspan>
+<tspan x="24" y="182" fill="#000000"> </tspan>
+<tspan x="36" y="182" fill="#ffff00">t</tspan>
+<tspan x="48" y="182" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="182" fill="#0000ff">A</tspan>
+<tspan x="72" y="182" fill="#000000"> </tspan>
+<tspan x="84" y="182" fill="#000000"> </tspan>
+<tspan x="96" y="182" fill="#000000"> </tspan>
+<tspan x="0" y="202" fill="#000000"> </tspan>
+<tspan x="12" y="202" fill="#000000"> </tspan>
+<tspan x="24" y="202" fill="#000000"> </tspan>
+<tspan x="36" y="202" fill="#000000"> </tspan>
+<tspan x="48" y="202" fill="#ffff00">T</tspan>
+<tspan x="60" y="202" fill="#000000"> </tspan>
+<tspan x="72" y="202" fill="#000000"> </tspan>
+<tspan x="84" y="202" fill="#000000"> </tspan>
+<tspan x="96" y="202" fill="#000000"> </tspan>
+<tspan x="0" y="222" fill="#000000"> </tspan>
+<tspan x="12" y="222" fill="#000000"> </tspan>
+<tspan x="24" y="222" fill="#000000"> </tspan>
+<tspan x="36" y="222" fill="#ff0000">C</tspan>
+<tspan x="48" y="222" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="222" fill="#800080">g</tspan>
+<tspan x="72" y="222" fill="#000000"> </tspan>
+<tspan x="84" y="222" fill="#000000"> </tspan>
+<tspan x="96" y="222" fill="#000000"> </tspan>
+<tspan x="0" y="242" fill="#000000"> </tspan>
+<tspan x="12" y="242" fill="#ff00ff">G</tspan>
+<tspan x="24" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="242" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="242" fill="#000080">-</tspan>
+<tspan x="72" y="242" fill="#000080">-</tspan>
+<tspan x="84" y="242" fill="#808000">c</tspan>
+<tspan x="96" y="242" fill="#000000"> </tspan>
+<tspan x="0" y="262" fill="#0000ff">A</tspan>
+<tspan x="12" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="24" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="36" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="48" y="262" fill="#4e4e4e">-</tspan>
+<tspan x="60" y="262" fill="#000080">-</tspan>
+<tspan x="72" y="262" fill="#000080">-</tspan>
+<tspan x="84" y="262" fill="#000080">-</tspan>
+<tspan x="96" y="262" fill="#c0c0c0">t</tspan>
+</text>
+<animate attributeName="opacity" begin="0s" dur="0.4s" repeatCount="indefinite" calcMode="discrete" values="0;0;0;0;0;0;0;1;0" keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1" />
+</g>
+
+</svg>
