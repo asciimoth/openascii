@@ -1,45 +1,46 @@
-@ This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit
-@ http://creativecommons.org/licenses/by/4.0/.
+@3a
+;; This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit
+;; http://creativecommons.org/licenses/by/4.0/.
 title just an apple
 author ASCIIMoth
-width 12
-height 5
-loop true
+license CC0-1.0
 delay 300
-colors fg
+loop yes
+colors yes
 
-  ,--./,-.  444444444444
- / //     \ 444cc4444444
-|          |444444444444
- \        / 444444444444
-  '._,._,'  444444444444
+@body
+  <=>\      112228111111
+  ,..\\..,  111118811111
+ ' //     ' 111991111111
+|          |111111111111
+|          |111111111111
+ '.__.~._.' 111111811111
 
-  ,--./,-.  444444444444
- / //    _\ 444cc4444444
-|       /   4444444ffff4
- \      `-, 4444444ffff4
-  '._,._,'  444444444444
+  <=>\      112228111111
+  ,..\\..,  111118811111
+ ' //    _' 111991111f11
+|       /   11111111f111
+|       `-, 11111111ff11
+ '.__.~._.' 111111811111
 
-  ,--./,-.  444444444444
- / //   ,-' 444cc4444444
-|      (    4444444f4444
- \      `-, 4444444ffff4
-  '._,._,'  444444444444
+  <=>\      112228111111
+  ,..\\..,  111118811111
+ ' //   ,-' 11199111ff11
+|      (    1111111f1111
+|       `-. 11111111fff1
+ '.__.~._.' 111111811111
 
-  ,--./,-.  444444444444
- / //,_.--' 444cc4444444
-|   /  {    4444fffffff4
- \  \_,-`-, 4444fffffff4
-  '._,._,'  444444444444
+  <=>\      112228111111
+  ,..\\..,  111118811111
+ ' //,_.--' 11199fffff11
+|   /  {    1111f11f1111
+|   \_,''-. 1111fffffff1
+ '.__.~._.' 111111811111
 
-  ,--./,-.  444444444444
- /,-._,.--' 444444444444
-  __}  {    44fffffffff4
- \`-._,-`-, 44fffffffff4
-  '._,._,'  444444444444
+  <=>\      112228111111
+  ,..\\..,  111118811111
+ ',--,_.--' 11fffffffff1
+    }  {    ffffffffffff
+  ,-,_,''-. fffffffffff1
+ '.__.~._.' 111111811111
 
-  ,--./,-.  444444444444
- '--._,.--' 444444444444
-    }  {    fffffffffff4
- ,-'._,-`-, fffffffffff4
-  '._,._,'  444444444444

@@ -1,14 +1,14 @@
-@ This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit
-@ http://creativecommons.org/licenses/by/4.0/.
+@3a
+;; This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit
+;; http://creativecommons.org/licenses/by/4.0/.
 title Just an old stone
 author ASCIIMoth
-width 30
-height 14
-loop true
+license CC0-1.0
 delay 1000
-colors fg
+loop yes
+colors yes
 
-
+@body
                               000000000000000000000000000000
                               000000000000000000000000000000
           ____________        000000000088888888888800000000

@@ -1,15 +1,15 @@
-@ This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit
-@ http://creativecommons.org/licenses/by/4.0/.
-@
-@ Посвящается памяти Михаила Горшенева
+@3a
+;; This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit
+;; http://creativecommons.org/licenses/by/4.0/.
 title >|_||\|K2!]34]
 author ASCIIMoth
-width 44
-height 24
-loop true
+license CC0-1.0
 delay 500
-colors fg
+loop yes
+colors yes
+;; Посвящается памяти Михаила Горшенева
 
+@body
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
@@ -34,6 +34,7 @@ colors fg
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
                                             ffffffffffffffffffffffffffffffffffffffffffff
+
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
@@ -58,6 +59,7 @@ colors fg
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
         2  3                                ffffffffffffffffffffffffffffffffffffffffffff
+
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
@@ -82,6 +84,7 @@ colors fg
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
   _|    2! 3                                ffffffffffffffffffffffffffffffffffffffffffff
+
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
@@ -106,6 +109,7 @@ colors fg
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
   _||  K2! 34                               ffffffffffffffffffffffffffffffffffffffffffff
+
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
@@ -130,6 +134,7 @@ colors fg
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
  |_||\ K2! 34                               ffffffffffffffffffffffffffffffffffffffffffff
+
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
@@ -154,6 +159,7 @@ colors fg
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
 >|_||\ K2!]34                               ffffffffffffffffffffffffffffffffffffffffffff
+
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
@@ -178,6 +184,7 @@ colors fg
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
 >|_||\|K2!]34]                              ffffffffffffffffffffffffffffffffffffffffffff
+
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
@@ -202,6 +209,7 @@ colors fg
                                             88888888888888888888888888888888888888888888
                                             88888888888888888888888888888888888888888888
                                             ffffffffffffffffffffffffffffffffffffffffffff
+
                        |\       /|          ffffffffffffffffffffffffffffffffffffffffffff
                \       | \     / |          ffffffffffffffffffffffffffffffffffffffffffff
                 \'-    |  \   /  |-+  .'!   ffffffffffffffffffffffffffffffffffffffffffff
@@ -214,7 +222,7 @@ colors fg
 '..__   """"----.     --,.__    _.'"" /''   ffffffffffffffffffffffffffffffffffffffffffff
      ''--..__    \|    ,  _ \  / _.. \      ffffffffffffffffffffffffffffffffffffffffffff
          /   '.__//   / ""\\\   //  \\      ffffffffffffffffffffffffffffffffffffffffffff
-         \       /   /  **  /   \ * ||      ffffffffffffffffffffffffccffffffffcfffffffff
+         \       /   /  **  /   \ * ||      ffffffffffffffffffffffff99ffffffff9fffffffff
           \     /    \\    /  \  \,."(      ffffffffffffffffffffffffffffffffffffffffffff
            \,   "      ----   /\      |     ffffffffffffffffffffffffffffffffffffffffffff
              \_  \          "/"L\    /      ffffffffffffffffffffffffffffffffffffffffffff
@@ -226,6 +234,7 @@ colors fg
                          """"''""           ffffffffffffffffffffffffffffffffffffffffffff
                                             ffffffffffffffffffffffffffffffffffffffffffff
 >|_||\|K2!]34]                              ffffffffffffffffffffffffffffffffffffffffffff
+
                        |\       /|          ffffffffffffffffffffffffffffffffffffffffffff
                \       | \     / |          ffffffffffffffffffffffffffffffffffffffffffff
                 \'-    |  \   /  |-+  .'!   ffffffffffffffffffffffffffffffffffffffffffff
@@ -236,12 +245,12 @@ colors fg
      '-   '''-     _/\_-' "-___+'   \  /_...ffffffffffffffffffffffffffffffffffffffffffff
 *.,,___'--.   '-,_/                  `/  _-'ffffffffffffffffffffffffffffffffffffffffffff
 '..__   """"----.     --,.__    _.'"" /''   ffffffffffffffffffffffffffffffffffffffffffff
-     ''--..__    \|    ,  _ \  / _|. \      ffffffffffffffffffffffffffffffffffcfffffffff
-         /   '.__//   / ""\\\   //| \\      ffffffffffffffffffffffffffffffffffcfffffffff
-         \       /   /  **  /  ---+----     ffffffffffffffffffffffffccfffffccccccccfffff
-          \     /    \\    /  \  \|."(      ffffffffffffffffffffffffffffffffffcfffffffff
-           \,   "      ----   /\  |   |     ffffffffffffffffffffffffffffffffffcfffffffff
-             \_  \          "/"L\ '  /      ffffffffffffffffffffffffffffffffffcfffffffff
+     ''--..__    \|    ,  _ \  / _|. \      ffffffffffffffffffffffffffffffffff9fffffffff
+         /   '.__//   / ""\\\   //| \\      ffffffffffffffffffffffffffffffffff9fffffffff
+         \       /   /  **  /  ---+----     ffffffffffffffffffffffff99fffff99999999fffff
+          \     /    \\    /  \  \|."(      ffffffffffffffffffffffffffffffffff9fffffffff
+           \,   "      ----   /\  |   |     ffffffffffffffffffffffffffffffffff9fffffffff
+             \_  \          "/"L\ '  /      ffffffffffffffffffffffffffffffffff9fffffffff
                '-,'",               |       ffffffffffffffffffffffffffffffffffffffffffff
                 \|  \_             /        ffffffffffffffffffffffffffffffffffffffffffff
                  |  | ''\!.""",,''^         ffffffffffffffffffffffffffffffffffffffffffff
@@ -250,6 +259,7 @@ colors fg
                    \_-\-_      _ _=/        ffffffffffffffffffffffffffffffffffffffffffff
                          """"''""           ffffffffffffffffffffffffffffffffffffffffffff
 >|_||\|K2!]34]                              ffffffffffffffffffffffffffffffffffffffffffff
+
                        |\       /|          ffffffffffffffffffffffffffffffffffffffffffff
                \       | \     / |          ffffffffffffffffffffffffffffffffffffffffffff
                 \'-    |  \   /  |-+  .'!   ffffffffffffffffffffffffffffffffffffffffffff
@@ -261,10 +271,10 @@ colors fg
 *.,,___'--.   '-,_/                  `/  _-'ffffffffffffffffffffffffffffffffffffffffffff
 '..__   """"----.     --,.__    _.'"" /''   ffffffffffffffffffffffffffffffffffffffffffff
      ''--..__    \|    ,  _ \  / _,. \      ffffffffffffffffffffffffffffffffffffffffffff
-         /   '.__//   / ""\\\   //| \\      ffffffffffffffffffffffffffffffffffcfffffffff
-         \       /   /  **  /   --+---      ffffffffffffffffffffffffccffffffccccccffffff
-          \     /    \\    /  \  \|."(      ffffffffffffffffffffffffffffffffffcfffffffff
-           \,   "      ----   /\  |   |     ffffffffffffffffffffffffffffffffffcfffffffff
+         /   '.__//   / ""\\\   //| \\      ffffffffffffffffffffffffffffffffff9fffffffff
+         \       /   /  **  /   --+---      ffffffffffffffffffffffff99ffffff999999ffffff
+          \     /    \\    /  \  \|."(      ffffffffffffffffffffffffffffffffff9fffffffff
+           \,   "      ----   /\  |   |     ffffffffffffffffffffffffffffffffff9fffffffff
              \_  \          "/"L\    /      ffffffffffffffffffffffffffffffffffffffffffff
                '-,'",               |       ffffffffffffffffffffffffffffffffffffffffffff
                 \|  \_             /        ffffffffffffffffffffffffffffffffffffffffffff
@@ -274,6 +284,7 @@ colors fg
                          """"''""           ffffffffffffffffffffffffffffffffffffffffffff
                                             ffffffffffffffffffffffffffffffffffffffffffff
 >|_||\|K2!]34]                              ffffffffffffffffffffffffffffffffffffffffffff
+
                        |\       /|          ffffffffffffffffffffffffffffffffffffffffffff
                \       | \     / |          ffffffffffffffffffffffffffffffffffffffffffff
                 \'-    |  \   /  |-+  .'!   ffffffffffffffffffffffffffffffffffffffffffff
@@ -284,12 +295,12 @@ colors fg
      '-   '''-     _/\_-' "-___+'   \  /_...ffffffffffffffffffffffffffffffffffffffffffff
 *.,,___'--.   '-,_/                  `/  _-'ffffffffffffffffffffffffffffffffffffffffffff
 '..__   """"----.     --,.__    _.'"" /''   ffffffffffffffffffffffffffffffffffffffffffff
-     ''--..__    \|    ,  _ \  / _|. \      ffffffffffffffffffffffffffffffffffcfffffffff
-         /   '.__//   / ""\\\   //| \\      ffffffffffffffffffffffffffffffffffcfffffffff
-         \       /   /  **  /  ---+----     ffffffffffffffffffffffffccfffffccccccccfffff
-          \     /    \\    /  \  \|."(      ffffffffffffffffffffffffffffffffffcfffffffff
-           \,   "      ----   /\  |   |     ffffffffffffffffffffffffffffffffffcfffffffff
-             \_  \          "/"L\ '  /      ffffffffffffffffffffffffffffffffffcfffffffff
+     ''--..__    \|    ,  _ \  / _|. \      ffffffffffffffffffffffffffffffffff9fffffffff
+         /   '.__//   / ""\\\   //| \\      ffffffffffffffffffffffffffffffffff9fffffffff
+         \       /   /  **  /  ---+----     ffffffffffffffffffffffff99fffff99999999fffff
+          \     /    \\    /  \  \|."(      ffffffffffffffffffffffffffffffffff9fffffffff
+           \,   "      ----   /\  |   |     ffffffffffffffffffffffffffffffffff9fffffffff
+             \_  \          "/"L\ '  /      ffffffffffffffffffffffffffffffffff9fffffffff
                '-,'",               |       ffffffffffffffffffffffffffffffffffffffffffff
                 \|  \_             /        ffffffffffffffffffffffffffffffffffffffffffff
                  |  | ''\!.""",,''^         ffffffffffffffffffffffffffffffffffffffffffff
@@ -298,6 +309,7 @@ colors fg
                    \_-\-_      _ _=/        ffffffffffffffffffffffffffffffffffffffffffff
                          """"''""           ffffffffffffffffffffffffffffffffffffffffffff
 >|_||\|K2!]34]                              ffffffffffffffffffffffffffffffffffffffffffff
+
                        |\       /|          ffffffffffffffffffffffffffffffffffffffffffff
                \       | \     / |          ffffffffffffffffffffffffffffffffffffffffffff
                 \'-    |  \   /  |-+  .'!   ffffffffffffffffffffffffffffffffffffffffffff
@@ -309,10 +321,10 @@ colors fg
 *.,,___'--.   '-,_/                  `/  _-'ffffffffffffffffffffffffffffffffffffffffffff
 '..__   """"----.     --,.__    _.'"" /''   ffffffffffffffffffffffffffffffffffffffffffff
      ''--..__    \|    ,  _ \  / _,. \      ffffffffffffffffffffffffffffffffffffffffffff
-         /   '.__//   / ""\\\   //| \\      ffffffffffffffffffffffffffffffffffcfffffffff
-         \       /   /  **  /   --+---      ffffffffffffffffffffffffccffffffccccccffffff
-          \     /    \\    /  \  \|."(      ffffffffffffffffffffffffffffffffffcfffffffff
-           \,   "      ----   /\  |   |     ffffffffffffffffffffffffffffffffffcfffffffff
+         /   '.__//   / ""\\\   //| \\      ffffffffffffffffffffffffffffffffff9fffffffff
+         \       /   /  **  /   --+---      ffffffffffffffffffffffff99ffffff999999ffffff
+          \     /    \\    /  \  \|."(      ffffffffffffffffffffffffffffffffff9fffffffff
+           \,   "      ----   /\  |   |     ffffffffffffffffffffffffffffffffff9fffffffff
              \_  \          "/"L\    /      ffffffffffffffffffffffffffffffffffffffffffff
                '-,'",               |       ffffffffffffffffffffffffffffffffffffffffffff
                 \|  \_             /        ffffffffffffffffffffffffffffffffffffffffffff
@@ -322,6 +334,7 @@ colors fg
                          """"''""           ffffffffffffffffffffffffffffffffffffffffffff
                                             ffffffffffffffffffffffffffffffffffffffffffff
 >|_||\|K2!]34]                              ffffffffffffffffffffffffffffffffffffffffffff
+
                        |\       /|          ffffffffffffffffffffffffffffffffffffffffffff
                \       | \     / |          ffffffffffffffffffffffffffffffffffffffffffff
                 \'-    |  \   /  |-+  .'!   ffffffffffffffffffffffffffffffffffffffffffff
@@ -332,12 +345,12 @@ colors fg
      '-   '''-     _/\_-' "-___+'   \  /_...ffffffffffffffffffffffffffffffffffffffffffff
 *.,,___'--.   '-,_/                  `/  _-'ffffffffffffffffffffffffffffffffffffffffffff
 '..__   """"----.     --,.__    _.'"" /''   ffffffffffffffffffffffffffffffffffffffffffff
-     ''--..__    \|    ,  _ \  / _|. \      ffffffffffffffffffffffffffffffffffcfffffffff
-         /   '.__//   / ""\\\   //| \\      ffffffffffffffffffffffffffffffffffcfffffffff
-         \       /   /  **  /  ---+----     ffffffffffffffffffffffffccfffffccccccccfffff
-          \     /    \\    /  \  \|."(      ffffffffffffffffffffffffffffffffffcfffffffff
-           \,   "      ----   /\  |   |     ffffffffffffffffffffffffffffffffffcfffffffff
-             \_  \          "/"L\ '  /      ffffffffffffffffffffffffffffffffffcfffffffff
+     ''--..__    \|    ,  _ \  / _|. \      ffffffffffffffffffffffffffffffffff9fffffffff
+         /   '.__//   / ""\\\   //| \\      ffffffffffffffffffffffffffffffffff9fffffffff
+         \       /   /  **  /  ---+----     ffffffffffffffffffffffff99fffff99999999fffff
+          \     /    \\    /  \  \|."(      ffffffffffffffffffffffffffffffffff9fffffffff
+           \,   "      ----   /\  |   |     ffffffffffffffffffffffffffffffffff9fffffffff
+             \_  \          "/"L\ '  /      ffffffffffffffffffffffffffffffffff9fffffffff
                '-,'",               |       ffffffffffffffffffffffffffffffffffffffffffff
                 \|  \_             /        ffffffffffffffffffffffffffffffffffffffffffff
                  |  | ''\!.""",,''^         ffffffffffffffffffffffffffffffffffffffffffff
@@ -346,6 +359,7 @@ colors fg
                    \_-\-_      _ _=/        ffffffffffffffffffffffffffffffffffffffffffff
                          """"''""           ffffffffffffffffffffffffffffffffffffffffffff
 >|_||\|K2!]34]                              ffffffffffffffffffffffffffffffffffffffffffff
+
                        |\       /|          ffffffffffffffffffffffffffffffffffffffffffff
                \       | \     / |          ffffffffffffffffffffffffffffffffffffffffffff
                 \'-    |  \   /  |-+  .'!   ffffffffffffffffffffffffffffffffffffffffffff
@@ -357,10 +371,10 @@ colors fg
 *.,,___'--.   '-,_/                  `/  _-'ffffffffffffffffffffffffffffffffffffffffffff
 '..__   """"----.     --,.__    _.'"" /''   ffffffffffffffffffffffffffffffffffffffffffff
      ''--..__    \|    ,  _ \  / _,. \      ffffffffffffffffffffffffffffffffffffffffffff
-         /   '.__//   / ""\\\   //| \\      ffffffffffffffffffffffffffffffffffcfffffffff
-         \       /   /  **  /   --+---      ffffffffffffffffffffffffccffffffccccccffffff
-          \     /    \\    /  \  \|."(      ffffffffffffffffffffffffffffffffffcfffffffff
-           \,   "      ----   /\  |   |     ffffffffffffffffffffffffffffffffffcfffffffff
+         /   '.__//   / ""\\\   //| \\      ffffffffffffffffffffffffffffffffff9fffffffff
+         \       /   /  **  /   --+---      ffffffffffffffffffffffff99ffffff999999ffffff
+          \     /    \\    /  \  \|."(      ffffffffffffffffffffffffffffffffff9fffffffff
+           \,   "      ----   /\  |   |     ffffffffffffffffffffffffffffffffff9fffffffff
              \_  \          "/"L\    /      ffffffffffffffffffffffffffffffffffffffffffff
                '-,'",               |       ffffffffffffffffffffffffffffffffffffffffffff
                 \|  \_             /        ffffffffffffffffffffffffffffffffffffffffffff
@@ -370,6 +384,7 @@ colors fg
                          """"''""           ffffffffffffffffffffffffffffffffffffffffffff
                                             ffffffffffffffffffffffffffffffffffffffffffff
 >|_||\|K2!]34]                              ffffffffffffffffffffffffffffffffffffffffffff
+
                        |\       /|          ffffffffffffffffffffffffffffffffffffffffffff
                \       | \     / |          ffffffffffffffffffffffffffffffffffffffffffff
                 \'-    |  \   /  |-+  .'!   ffffffffffffffffffffffffffffffffffffffffffff
@@ -380,12 +395,12 @@ colors fg
      '-   '''-     _/\_-' "-___+'   \  /_...ffffffffffffffffffffffffffffffffffffffffffff
 *.,,___'--.   '-,_/                  `/  _-'ffffffffffffffffffffffffffffffffffffffffffff
 '..__   """"----.     --,.__    _.'"" /''   ffffffffffffffffffffffffffffffffffffffffffff
-     ''--..__    \|    ,  _ \  / _|. \      ffffffffffffffffffffffffffffffffffcfffffffff
-         /   '.__//   / ""\\\   //| \\      ffffffffffffffffffffffffffffffffffcfffffffff
-         \       /   /  **  /  ---+----     ffffffffffffffffffffffffccfffffccccccccfffff
-          \     /    \\    /  \  \|."(      ffffffffffffffffffffffffffffffffffcfffffffff
-           \,   "      ----   /\  |   |     ffffffffffffffffffffffffffffffffffcfffffffff
-             \_  \          "/"L\ '  /      ffffffffffffffffffffffffffffffffffcfffffffff
+     ''--..__    \|    ,  _ \  / _|. \      ffffffffffffffffffffffffffffffffff9fffffffff
+         /   '.__//   / ""\\\   //| \\      ffffffffffffffffffffffffffffffffff9fffffffff
+         \       /   /  **  /  ---+----     ffffffffffffffffffffffff99fffff99999999fffff
+          \     /    \\    /  \  \|."(      ffffffffffffffffffffffffffffffffff9fffffffff
+           \,   "      ----   /\  |   |     ffffffffffffffffffffffffffffffffff9fffffffff
+             \_  \          "/"L\ '  /      ffffffffffffffffffffffffffffffffff9fffffffff
                '-,'",               |       ffffffffffffffffffffffffffffffffffffffffffff
                 \|  \_             /        ffffffffffffffffffffffffffffffffffffffffffff
                  |  | ''\!.""",,''^         ffffffffffffffffffffffffffffffffffffffffffff
@@ -394,3 +409,4 @@ colors fg
                    \_-\-_      _ _=/        ffffffffffffffffffffffffffffffffffffffffffff
                          """"''""           ffffffffffffffffffffffffffffffffffffffffffff
 >|_||\|K2!]34]                              ffffffffffffffffffffffffffffffffffffffffffff
+
