@@ -384,8 +384,6 @@ function goUp() {
   let parentPath = pathname.replace(/\/[^/]*\/?$/, '');
   // if (pathname === '') pathname = '/';
 
-  console.log(pathname, parentPath)
-
   // Check if previous page is the parent(same origin & path)
   const referrer = document.referrer;
   if (referrer) {
@@ -403,7 +401,6 @@ function goUp() {
       // Ignore invalid referrer URLs
       console.log(e);
     }
-    return;
   }
 
   if (parentPath === '') parentPath = '/';
