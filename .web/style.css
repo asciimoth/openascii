@@ -1,0 +1,392 @@
+@font-face {
+  font-family: 'AdwaitaMono';
+  src: url('/.vendor/AdwaitaMonoNerdFontMono-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --bg: #000000;
+  --fg: #fafafa;
+  --dim: #1c1c1c;
+  --panel: #050505;
+  --border: #1a1a1a;
+  --header: #020202;
+  --dim-text: #888;
+  --item-dir: #00dddd;
+  --item-man: #aadd00;
+  --man-selected: #ffdd00;
+  --hint: green;
+  /* Prepend your custom font to the fallback stack */
+  --mono: 'AdwaitaMono', ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", monospace;
+}
+
+* {
+  box-sizing: border-box
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+body {
+  font-family: var(--mono);
+  font-size: 14px;
+  background: var(--bg);
+  color: var(--fg);
+  display: flex;
+  flex-direction: column;
+}
+
+.disable-scrollbars *::-webkit-scrollbar {
+  background: transparent;
+  /* Chrome/Safari/Webkit */
+  width: 0px;
+}
+
+.disable-scrollbars * {
+  scrollbar-width: none;
+  /* Firefox */
+  -ms-overflow-style: none;
+  /* IE 10+ */
+}
+
+.header {
+  display: none;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 10px;
+  border-bottom: 1px solid var(--border);
+  background: var(--header);
+}
+
+.brand {
+  font-weight: bold
+}
+
+.burger {
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--fg);
+  font-family: inherit;
+  padding: 2px 6px;
+  cursor: pointer;
+}
+
+.container {
+  flex: 1;
+  display: grid;
+  grid-template-columns: minmax(40ch, 40%) 1fr;
+  height: 100%;
+  min-height: 0;
+}
+
+.panel {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: var(--panel);
+}
+
+.left-panel {
+  border-right: 1px solid var(--border);
+}
+
+.title {
+  padding: 4px 6px;
+  border-bottom: 1px solid var(--border);
+  color: var(--dim-text);
+}
+
+.list {
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.item {
+  padding: 2px 6px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.item:hover {
+  color: var(--bg);
+  background-color: color-mix(in srgb, var(--fg), var(--bg) 50%);
+}
+
+.item.dir::after {
+  content: "/";
+  color: var(--dim-text);
+}
+
+.item.dir {
+  color: var(--item-dir);
+}
+
+.item.dir:hover {
+  color: var(--bg);
+  background-color: color-mix(in srgb, var(--item-dir), var(--bg) 50%);
+}
+
+.item.man {
+  color: var(--item-man);
+}
+
+.item.man:hover {
+  color: var(--bg);
+  background-color: color-mix(in srgb, var(--item-man), var(--bg) 50%);
+}
+
+.item.selected {
+  background: var(--fg);
+  color: var(--bg);
+  font-weight: bold;
+}
+
+.item.dir.selected {
+  background: var(--item-dir);
+}
+
+.item.man.selected {
+  background: var(--item-man);
+}
+
+.preview {
+  flex: 1;
+  overflow: auto;
+  padding: 6px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#previewPlayer {
+  text-align: left;
+  padding-left: 0;
+  margin: 0 auto
+}
+
+.hiddenPlayer {
+  display: none;
+}
+
+.preview pre {
+  margin: 0;
+  white-space: pre;
+  line-height: 1.0;
+}
+
+.preview ul {
+  margin: 0;
+}
+
+.title a {
+  text-decoration: none;
+  color: var(--item-dir);
+}
+
+.title a:hover {
+  text-decoration: none;
+  background-color: var(--item-dir);
+  color: var(--bg);
+}
+
+.preview a {
+  background-color: var(--dim-text);
+  color: var(--fg);
+  padding: 1px 10px;
+  text-decoration: none;
+  display: none;
+}
+
+.preview a[href]:not([href=""]) {
+  display: inline;
+}
+
+.preview a:hover {
+  background-color: var(--fg);
+  color: var(--bg);
+}
+
+.preview>* {
+  margin-bottom: 1em;
+}
+
+#previewComment {
+  color: var(--dim-text);
+}
+
+.authors-contaner:has(.orig-authors:not(:empty)) .authors {
+  color: var(--dim-text);
+}
+
+.authors-contaner {
+  display: none;
+}
+
+.authors-contaner:has(.orig-authors:not(:empty)) {
+  display: block;
+}
+
+.authors-contaner:has(.authors:not(:empty)) {
+  display: block;
+}
+
+.license-label {
+  display: none;
+}
+
+.license-container:has(.license[href]:not([href=""])) .license-label {
+  display: inline;
+}
+
+#previewHr {
+  display: none;
+}
+
+#previewContainer:has(#previewPlayer:not(:empty)) #previewHr {
+  display: block;
+}
+
+.status {
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 6px;
+  border-top: 1px solid var(--border);
+  font-size: 13px;
+  background: var(--header);
+}
+
+.hint b {
+  color: var(--hint);
+}
+
+kbd {
+  border: 1px solid var(--border);
+  padding: 0 4px;
+}
+
+.overlay {
+  display: none;
+}
+
+div.ap-wrapper div.ap-player {
+  border-radius: 0px !important;
+}
+
+.man section {
+  margin-top: 0;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+
+.man p {
+  margin: 0;
+  padding-bottom: 5px;
+}
+
+.man ul {
+  list-style: square;
+}
+
+.man section>big {
+  margin-left: -20px;
+}
+
+.man big {
+  display: block;
+  width: fit-content;
+  margin-bottom: 4px;
+  color: var(--bg);
+  background-color: var(--item-man);
+  font-weight: bold;
+}
+
+.header-selected {
+  background-color: var(--man-selected) !important;
+}
+
+.man big::before {
+  content: "[";
+}
+
+.man big::after {
+  content: "]";
+}
+
+/* small screens */
+@media (max-width:900px) {
+  .header {
+    display: flex
+  }
+
+  .container {
+    grid-template-columns: 1fr;
+  }
+
+  .left-panel {
+    position: fixed;
+    left: 0;
+    top: 40px;
+    bottom: 22px;
+    width: 80%;
+    max-width: 400px;
+    background: var(--bg);
+    transform: translateX(-100%);
+    transition: transform .15s;
+    z-index: 20;
+  }
+
+  .left-panel.open {
+    transform: translateX(0)
+  }
+
+  .overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 10;
+  }
+
+  .overlay.show {
+    display: block
+  }
+
+
+  .man section {
+    padding-left: 0px;
+  }
+
+  .man section>big {
+    margin-left: 0px;
+  }
+}
+
+.asciinema-player-theme-custom {
+  --term-color-foreground: #cccccc;
+  --term-color-background: #121314;
+  --term-color-0: #000000;
+  --term-color-1: #dd3c69;
+  --term-color-2: #4ebf22;
+  --term-color-3: #ddaf3c;
+  --term-color-4: #26b0d7;
+  --term-color-5: #b954e1;
+  --term-color-6: #54e1b9;
+  --term-color-7: #d9d9d9;
+  --term-color-8: #4d4d4d;
+
+  --term-color-9: #fb4934;
+  --term-color-10: #b8bb26;
+  --term-color-11: #fabd2f;
+  --term-color-12: #83a598;
+  --term-color-13: #d3869b;
+  --term-color-14: #8ec07c;
+  --term-color-15: #fbf1c7;
+}
