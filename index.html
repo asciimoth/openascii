@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Open Ascii</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="/.web/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/.web/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/.web/favicon-16x16.png">
+  <link rel="manifest" href="/.web/site.webmanifest">
+
+  <link rel="stylesheet" type="text/css" href="/.vendor/asciinema-player.css" />
+  <script src="/.vendor/asciinema-player.min.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="/.web/style.css" />
+</head>
+
+<body>
+  <div class="header">
+    <button class="burger" id="burger">☰</button>
+    <div class="brand">Open Ascii</div>
+  </div>
+
+  <div class="container">
+
+    <aside class="panel left-panel disable-scrollbars" id="leftPanel">
+      <div class="title" id="pathTitle">/</div>
+      <div class="list" id="fileList" tabindex="0"></div>
+    </aside>
+
+    <section class="panel right-panel">
+      <div class="title" id="previewTitle"></div>
+      <div id="previewContainer" class="preview">
+        <div id="dirPreview"></div>
+        <div id="previewPlayer"></div>
+        <hr id="previewHr">
+        <div>
+          <a id="downloadLink" href="" download>Download 3a file</a>
+          <a id="srcLink" href="">Go to Source</a>
+        </div>
+        <div>
+          <pre id="previewComment"></pre>
+        </div>
+        <div id="previewTags"></div>
+        <div class="authors-contaner">
+          <b>Authors:</b>
+          <ul id="origAuthors" class="orig-authors"></ul>
+          <ul id="authors" class="authors"></ul>
+        </div>
+        <div class="license-container">
+          <b class="license-label">License: </b>
+          <a id="previewLicense" class="license"></a>
+        </div>
+      </div>
+    </section>
+
+  </div>
+
+  <div class="status">
+    <div class="hint">Use <b>hjkl</b> or <b>←↓↑→</b> for navigation</div>
+    <div id="statusRight"></div>
+  </div>
+
+  <div class="overlay" id="overlay"></div>
+
+  <script src="/.web/script.js"></script>
+</body>
+
+</html>
