@@ -11,6 +11,9 @@ key.pem
 # metadata files
 files.json
 
+# asciicast renders
+*.cast
+
 # Python ignors
 
 # Byte-compiled / optimized / DLL files
