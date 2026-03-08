@@ -1,6 +1,7 @@
 [
   ".direnv",
   ".git",
+  ".github",
   ".renders",
   "templates",
   ".vendor",
