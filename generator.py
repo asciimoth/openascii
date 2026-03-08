@@ -136,6 +136,7 @@ def get_files(dir, files = None):
             e["origAuthors"] = list(origs)
             DIRINFO[dir]["origs"] = DIRINFO[dir]["origs"].union(set(origs))
         add(e)
+
     # art
     for f in content:
         ff = os.path.join(dir, f)
@@ -152,6 +153,7 @@ def get_files(dir, files = None):
             "preview": base+".cast",
             "cols": info["meta"]["width"],
             "rows": info["meta"]["height"],
+            "data": ff.removeprefix("."),
         }
         tags = info["header"]["tags"]
         if len(tags) > 0:
