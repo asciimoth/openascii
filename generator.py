@@ -3,11 +3,9 @@ import os
 import shutil
 import subprocess
 from pathlib import Path
+from cleaner import cleanup, IGNORE
 
 DIRINFO = {}
-
-with open("./webignore.json", 'r') as f:
-    IGNORE = set(json.load(f))
 
 def jsoncmd(cmd):
     result = subprocess.run(
@@ -17,15 +15,6 @@ def jsoncmd(cmd):
         check=True,
     )
     return json.loads(result.stdout)
-
-def cleanup():
-    for root, dirs, files in os.walk("."):
-        dirs[:] = [d for d in dirs if d not in IGNORE]
-        for file in files:
-            if file.endswith('.cast') or file == 'index.html' or file == 'files.json':
-                file_path = os.path.join(root, file)
-                print("del", file_path)
-                os.remove(file_path)
 
 def copy_index():
     for root, dirs, _ in os.walk("."):
@@ -193,7 +182,9 @@ def generate_files():
         with open(out, 'w') as f:
             json.dump(get_files(root, templ), f, indent=2)
 
-cleanup()
-copy_index()
-generate_casts()
-generate_files()
+if __name__ == "__main__":
+    cleanup()
+    copy_index()
+    generate_casts()
+    generate_files()
+
