@@ -232,7 +232,7 @@ function render() {
   fileListEl.innerHTML = ""
   files.forEach((f, i) => {
     const el = document.createElement('div')
-    el.className = "item " + (
+    el.className = "item item-hover " + (
       f.type === 'dir' ? 'dir' : (f.type === 'man' ? 'man' : '')
     ) + (i === selected ? ' selected' : '')
     el.textContent = f.name + (f.sec ? '(' + f.sec + ')' : '')
@@ -265,6 +265,10 @@ async function openSelection() {
   }
   const f = files[selected]
   if (!f) return
+  // Unset things
+  previewOrigAuthors.innerHTML = ""
+  previewAuthors.innerHTML = ""
+  previewPlayer.textContent = ""
 
   // Set title
   if (f.type === 'dir') {
@@ -279,8 +283,7 @@ async function openSelection() {
   updateURLHashForSelection()
   updatePageTitle()
 
-  previewAuthors.innerHTML = ""
-  if (f.authors && f.authors.length > 0) {
+  if (f.type !== 'dir' && f.authors && f.authors.length > 0) {
     f.authors.forEach((a, i) => {
       const li = document.createElement('li')
       li.textContent = a
@@ -288,8 +291,7 @@ async function openSelection() {
     })
   }
 
-  previewOrigAuthors.innerHTML = ""
-  if (f.origAuthors && f.origAuthors.length > 0) {
+  if (f.type !== 'dir' && f.origAuthors && f.origAuthors.length > 0) {
     f.origAuthors.forEach((a, i) => {
       const li = document.createElement('li')
       li.textContent = a
@@ -311,7 +313,6 @@ async function openSelection() {
   previewComment.textContent = f.comment
   previewTags.textContent = f.tags
 
-  previewPlayer.textContent = ""
   previewPlayer.setAttribute("href", "");
   if (f.preview) {
     let animation = true;
@@ -338,11 +339,13 @@ async function openSelection() {
       const dirPath = (cwd ? cwd + '/' : '') + f.name
       const r = await fetch(dirPath + '/files.json')
       if (!r.ok) throw 0
-      const files = await r.json()
+      const files = filterFiles(await r.json())
       dirPreview.textContent = ''
       files.forEach((f, i) => {
         const el = document.createElement('div')
-        el.className = "item " + (f.type === 'dir' ? 'dir' : '')
+        el.className = "item " + (
+          f.type === 'dir' ? 'dir' : (f.type === 'man' ? 'man' : '')
+        )
         el.textContent = f.name
         dirPreview.appendChild(el)
       })

@@ -114,7 +114,7 @@ body {
   cursor: pointer;
 }
 
-.item:hover {
+.item.item-hover:hover {
   color: var(--bg);
   background-color: color-mix(in srgb, var(--fg), var(--bg) 50%);
 }
@@ -128,7 +128,7 @@ body {
   color: var(--item-dir);
 }
 
-.item.dir:hover {
+.item.item-hover.dir:hover {
   color: var(--bg);
   background-color: color-mix(in srgb, var(--item-dir), var(--bg) 50%);
 }
@@ -137,7 +137,7 @@ body {
   color: var(--item-man);
 }
 
-.item.man:hover {
+.item.item-hover.man:hover {
   color: var(--bg);
   background-color: color-mix(in srgb, var(--item-man), var(--bg) 50%);
 }
