@@ -42,6 +42,17 @@ body {
   flex-direction: column;
 }
 
+.filter-hint {
+  color: var(--dim-text);
+  cursor: pointer;
+  font-size: 12px;
+  padding-left: 1em;
+}
+
+.filter-hint:hover {
+  color: var(--fg);
+}
+
 .disable-scrollbars *::-webkit-scrollbar {
   background: transparent;
   /* Chrome/Safari/Webkit */
@@ -100,6 +111,25 @@ body {
   padding: 4px 6px;
   border-bottom: 1px solid var(--border);
   color: var(--dim-text);
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.filter {
+  background-color: var(--dim);
+  font-size: 12px;
+  padding: 0.1em;
+  display: none;
+}
+
+.filter:not(:empty) {
+  display: inline;
+}
+
+.filter::before {
+  content: "filter: ";
 }
 
 .list {
@@ -366,6 +396,14 @@ div.ap-wrapper div.ap-player {
 
   .man section>big {
     margin-left: 0px;
+  }
+
+  .title {
+    display: block;
+  }
+
+  .breadcrums {
+    display: block;
   }
 }
 

@@ -24,8 +24,11 @@
 
   <div class="container">
 
-    <aside class="panel left-panel disable-scrollbars" id="leftPanel">
-      <div class="title" id="pathTitle">/</div>
+    <aside class="panel left-panel disable-scrollbars open" id="leftPanel">
+      <div class="title">
+        <span id="pathTitle" class="breadcrums">/</span>
+        <span id="filterWidget" class="filter" title="disable filter"></span>
+      </div>
       <div class="list" id="fileList" tabindex="0"></div>
     </aside>
 
@@ -62,7 +65,7 @@
     <div id="statusRight"></div>
   </div>
 
-  <div class="overlay" id="overlay"></div>
+  <div class="overlay show" id="overlay"></div>
 
   <script src="/.web/script.js"></script>
 </body>

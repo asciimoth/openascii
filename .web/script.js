@@ -47,6 +47,7 @@ const LICENSES = {
   "cc0-1.0": "https://spdx.org/licenses/CC0-1.0.html",
   "cc0": "https://spdx.org/licenses/CC0-1.0.html",
 };
+AUTORS = undefined;
 
 const fileListEl = document.getElementById('fileList')
 const statusRight = document.getElementById('statusRight')
@@ -75,7 +76,6 @@ let cwd = ""
 
 function breadcrumb() {
   const path = 'openascii' + window.location.pathname;
-  console.log(path)
   const segments = path.split('/').filter(seg => seg);
   let cumulativePath = '/';
   const breadcrumbHtml = segments.map((seg, index) => {
@@ -91,7 +91,57 @@ function breadcrumb() {
   pathTitle.innerHTML = breadcrumbHtml;
 }
 
+function setupFilterWidget() {
+  const params = new URLSearchParams(window.location.search);
+  const authorParam = params.get('author');
+  if (!authorParam) return;
+  const widget = document.getElementById('filterWidget')
+  widget.innerText = authorParam;
+  widget.onclick = () => {
+    const url = new URL(window.location.href);
+    const params = new URLSearchParams(url.search);
+    params.delete('author');
+    window.location.search = params.toString();
+  }
+}
+
 breadcrumb();
+setupFilterWidget();
+
+function mapAuthor(a) {
+  const info = AUTORS[a.toLowerCase()];
+  const li = document.createElement('li')
+  if (info) {
+    const name = info["visible"] ? info["visible"] : a;
+    const link = info["link"];
+    const aka = info["aka"];
+    if (link) {
+      const l = document.createElement('a')
+      l.textContent = name
+      l.setAttribute("href", link);
+      li.appendChild(l)
+    } else {
+      li.textContent = name
+    }
+    if (aka) {
+      li.setAttribute("title", "aka "+aka.join(" aka "));
+    }
+  } else {
+    li.textContent = a
+  }
+  const filter = document.createElement('span')
+  filter.textContent = "▼"
+  filter.classList.add("filter-hint")
+  filter.setAttribute("title", "filter by "+a);
+  filter.onclick = () => {
+    const url = new URL(window.location.href);
+    const params = new URLSearchParams(url.search);
+    params.set('author', a.toLowerCase());
+    window.location.search = params.toString();
+  }
+  li.appendChild(filter)
+  return li
+}
 
 function getBase() {
   return window.location.pathname + window.location.search;
@@ -208,6 +258,12 @@ function addLicenseLinks(files) {
 
 async function loadFiles() {
   try {
+    if (!AUTORS) {
+      const a = await fetch('/authors.json', {cache: 'no-cache'})
+      if (a.ok) {
+        AUTORS = await a.json();
+      }
+    }
     const r = await fetch('./files.json', {cache: 'no-cache'})
     if (!r.ok) throw 0
     files = filterFiles(await r.json())
@@ -285,16 +341,14 @@ async function openSelection() {
 
   if (f.type !== 'dir' && f.authors && f.authors.length > 0) {
     f.authors.forEach((a, i) => {
-      const li = document.createElement('li')
-      li.textContent = a
+      const li = mapAuthor(a)
       previewAuthors.appendChild(li)
     })
   }
 
   if (f.type !== 'dir' && f.origAuthors && f.origAuthors.length > 0) {
     f.origAuthors.forEach((a, i) => {
-      const li = document.createElement('li')
-      li.textContent = a
+      const li = mapAuthor(a)
       previewOrigAuthors.appendChild(li)
     })
   }
