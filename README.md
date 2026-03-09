@@ -1,5 +1,6 @@
-# 3a_storage
-Collection of ascii art in [3a format](https://github.com/asciimoth/3a/tree/main).
+# [Open Source ASCII Art Archive](https://openascii.moth.contact)
+Collection of ascii art in [3a format](https://github.com/asciimoth/3a/tree/main)
+under permissive or copyleft licenses.
 
 ## Galery
 ![Just and apple](./.renders/apple.svg)
@@ -18,4 +19,12 @@ You can learn more aboit it [here](https://github.com/asciimoth/3a/tree/main).
 ## Contributing
 If you decide to use the 3a format for your art, I will be grateful if you add your work or a link to it to this repository.  
 Please specify the license under which your art is distributed [in its header](https://github.com/asciimoth/3a/blob/main/3a.md#license-key).
+
+## TODO
+- [ ] custom 404 page
+- [ ] url mapping for moved files
+- [ ] more search/filtering options
+- [ ] [open-graph meta tags](https://www.opengraph.io/open-graph-meta-tags)?
+- [ ] more contribution instructions?
+- [ ] a brief 3a tutorial?
 
