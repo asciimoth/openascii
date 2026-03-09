@@ -228,7 +228,7 @@ body {
 .preview a {
   background-color: var(--dim-text);
   color: var(--fg);
-  padding: 1px 10px;
+  /* padding: 1px 10px; */
   text-decoration: none;
   display: none;
 }
