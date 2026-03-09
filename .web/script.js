@@ -46,6 +46,13 @@ const LICENSES = {
 
   "cc0-1.0": "https://spdx.org/licenses/CC0-1.0.html",
   "cc0": "https://spdx.org/licenses/CC0-1.0.html",
+
+  "gpl3": "https://spdx.org/licenses/GPL-3.0.html",
+  "gpl3.0": "https://spdx.org/licenses/GPL-3.0.html",
+  "gpl-3": "https://spdx.org/licenses/GPL-3.0.html",
+  "gpl-3.0": "https://spdx.org/licenses/GPL-3.0.html",
+  "gpl": "https://spdx.org/licenses/GPL-3.0.html",
+  "gpl": "https://spdx.org/licenses/GPL-3.0.html",
 };
 AUTORS = undefined;
 
