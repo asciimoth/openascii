@@ -4,9 +4,11 @@
 title Boltzmann brain
 author ASCIIMoth
 license CC0-1.0
+src https://github.com/asciimoth/openascii
 delay 300
 loop yes
 colors yes
+#brain #space #star
 
 @body
                         . .  .  . * 00000000000000000000000030600e006070

@@ -4,8 +4,10 @@
 title Hail Omnissiah
 author ASCIIMoth
 license CC0-1.0
+src https://github.com/asciimoth/openascii
 loop yes
 colors yes
+#WH40k #Omnissiah #AdeptusMechanicus
 
 @color-pin
 888888888888888888888888888888888888888888888888888888888888888888888888

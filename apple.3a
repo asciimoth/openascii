@@ -4,9 +4,12 @@
 title just an apple
 author ASCIIMoth
 license CC0-1.0
+src https://github.com/asciimoth/openascii
 delay 300
 loop yes
 colors yes
+#apple #fruit #food
+;; Inspired by apple art by hjw
 
 @body
   <=>\      112228111111

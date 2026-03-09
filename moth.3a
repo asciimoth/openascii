@@ -4,8 +4,10 @@
 title Autoportrait
 author ASCIIMoth
 license CC0-1.0
+src https://github.com/asciimoth/openascii
 loop no
 colors yes
+#moth #insect #lepidoptera
 
 @body
 .'''--..                    ..--'''.ffffffffffffffffffffffffffffffffffff

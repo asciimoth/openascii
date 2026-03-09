@@ -2,8 +2,10 @@
 title Guy
 author ASCIIMoth
 license WTFPL
+src https://github.com/asciimoth/openascii
 loop yes
 colors yes
+#GuyFawkes #remember #mask
 
 @color-pin
 22222222222222222222222222222222222

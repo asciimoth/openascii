@@ -3,7 +3,9 @@
 ;; http://creativecommons.org/licenses/by/4.0/.
 title PopOS logo
 author ASCIIMoth
+src https://github.com/asciimoth/openascii
 license CC0-1.0
+#linux #fetch #logo
 
 @body
             

@@ -4,8 +4,10 @@
 title NixOS logo
 author ASCIIMoth
 license CC0-1.0
+src https://github.com/asciimoth/openascii
 delay 25
 loop yes
+#linux #fetch #logo
 
 @body
                       

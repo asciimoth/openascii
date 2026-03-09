@@ -4,6 +4,7 @@
 title Just an old stone
 author ASCIIMoth
 license CC0-1.0
+src https://github.com/asciimoth/openascii
 delay 1000
 loop yes
 colors yes

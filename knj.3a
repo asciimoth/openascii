@@ -4,9 +4,11 @@
 title >|_||\|K2!]34]
 author ASCIIMoth
 license CC0-1.0
+src https://github.com/asciimoth/openascii
 delay 500
 loop yes
 colors yes
+#skull
 ;; Посвящается памяти Михаила Горшенева
 
 @body

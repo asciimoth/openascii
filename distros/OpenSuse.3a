@@ -3,8 +3,10 @@
 ;; http://creativecommons.org/licenses/by/4.0/.
 title OpenSUSE logo
 author ASCIIMoth
+src https://github.com/asciimoth/openascii
 license CC0-1.0
 delay 100
+#linux #fetch #logo
 
 @body
            

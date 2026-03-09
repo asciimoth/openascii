@@ -4,8 +4,10 @@
 title DNA
 author ASCIIMoth
 license CC0-1.0
+src https://github.com/asciimoth/openascii
 loop yes
 colors yes
+#dna #biology
 
 @body
 g-------C544488889

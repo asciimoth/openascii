@@ -5,6 +5,8 @@ title CachyOS logo
 author ASCIIMoth
 license CC0-1.0
 loop yes
+src https://github.com/asciimoth/openascii
+#linux #fetch #logo
 
 @body
                           

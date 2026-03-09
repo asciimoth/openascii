@@ -4,9 +4,11 @@
 title  Big mistake
 author ASCIIMoth
 license CC0-1.0
+src https://github.com/asciimoth/openascii
 delay 200
 loop yes
 colors yes
+#laptop #terminal #shell
 
 @body
  .====================. 777777777777777777777777

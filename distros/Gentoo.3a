@@ -4,7 +4,9 @@
 title Gentoo logo
 author ASCIIMoth
 license CC0-1.0
+src https://github.com/asciimoth/openascii
 delay 120
+#linux #fetch #logo
 
 @body
              
