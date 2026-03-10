@@ -27,4 +27,6 @@ Please specify the license under which your art is distributed [in its header](h
 - [ ] [open-graph meta tags](https://www.opengraph.io/open-graph-meta-tags)?
 - [ ] more contribution instructions?
 - [ ] a brief 3a tutorial?
+- [ ] add [arch logo](https://openascii.moth.contact/distros/#Arch) to [arch wiki](https://wiki.archlinux.org/title/ASCII_art)
+- [ ] add [nix logo](https://openascii.moth.contact/distros/#NixOS) to [nixos wiki](https://wiki.nixos.org/wiki/Artwork)
 
